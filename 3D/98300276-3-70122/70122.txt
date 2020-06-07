@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Bourns Electronics";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"6934599";"";
+"REVISION";"A";"";
+"DESIGN";"SRR1240 Shielded  Power Inductor, 100uH";"";
+"TraceParts.InstanceId";"10-26052016-103390EU9MAOYYTLUA9TX0TLL9PPJ9X";"";
+"TraceParts.PartTitle";"SRR1240 Shielded  Power Inductor, 100uH";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.PartNumber";"10-26052016-103390";"";
+"REFERENCE";"SRR1240-101M";"";
+"TIMESTAMP";"20/05/2016 10:27";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.ClassPath";"/F_RS_COMPONENTS/PSSS_432964/PSS_433012/PSF_433017/";"";
