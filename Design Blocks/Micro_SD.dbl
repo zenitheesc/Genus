@@ -2,7 +2,7 @@
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
 <eagle version="9.4.2">
 <designblock>
-<description>MicroSD Card - SDMMC(4bits)</description>
+<description>MicroSD Card - SDMMC(4bits) - https://br.mouser.com/ProductDetail/Molex/502774-0891?qs=HaAz2OYkmGggsnJ7oFWqbQ%3D%3D</description>
 <attributes>
 <attribute name="BOARDSIZE" value="624 x 1004 mil"/>
 <attribute name="LAYERS" value="1: 1"/>
