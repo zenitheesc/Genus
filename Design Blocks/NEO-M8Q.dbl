@@ -5,7 +5,7 @@
 <description>Componete: NEO-M8Q, comunicação I2C, LNA e SAW internos.</description>
 <attributes>
 <attribute name="AIRWIRES" value="YES"/>
-<attribute name="BOARDSIZE" value="551 x 1276 mil"/>
+<attribute name="BOARDSIZE" value="699 x 1346 mil"/>
 <attribute name="LAYERS" value="1: 1"/>
 </attributes>
 <drawings>
@@ -1300,8 +1300,16 @@ design rules under a new name.</description>
 <contactref element="U$1" pad="23"/>
 <contactref element="U$1" pad="22"/>
 <contactref element="U$1" pad="2"/>
-<wire x1="4.5981" y1="6.3189" x2="4.5981" y2="5.2189" width="0" layer="19" extent="1-1"/>
-<wire x1="16.5981" y1="5.2189" x2="4.5981" y2="5.2189" width="0" layer="19" extent="1-1"/>
+<wire x1="16.5981" y1="5.2189" x2="17.9078" y2="5.2189" width="0.1524" layer="1"/>
+<wire x1="17.9078" y1="5.2189" x2="18.8595" y2="4.2672" width="0.1524" layer="1"/>
+<wire x1="18.8595" y1="4.2672" x2="18.8595" y2="2.5146" width="0.1524" layer="1"/>
+<wire x1="18.8595" y1="2.5146" x2="17.6022" y2="1.2573" width="0.1524" layer="1"/>
+<wire x1="17.6022" y1="1.2573" x2="3.8481" y2="1.2573" width="0.1524" layer="1"/>
+<wire x1="3.8481" y1="1.2573" x2="1.905" y2="3.2004" width="0.1524" layer="1"/>
+<wire x1="1.905" y1="3.2004" x2="1.905" y2="5.4864" width="0.1524" layer="1"/>
+<wire x1="2.7375" y1="6.3189" x2="4.5981" y2="6.3189" width="0.1524" layer="1"/>
+<wire x1="1.905" y1="5.4864" x2="2.7375" y2="6.3189" width="0.1524" layer="1"/>
+<wire x1="4.5981" y1="5.2189" x2="4.5981" y2="6.3189" width="0.1524" layer="1"/>
 </signal>
 <signal name="GND">
 <contactref element="U$1" pad="24"/>
@@ -1340,7 +1348,11 @@ design rules under a new name.</description>
 <signal name="N$1">
 <contactref element="X1" pad="ANTENNA"/>
 <contactref element="U$1" pad="11"/>
-<wire x1="16.5981" y1="17.0189" x2="12.7381" y2="24.2189" width="0" layer="19" extent="1-1"/>
+<wire x1="12.7381" y1="24.2189" x2="17.4625" y2="24.2189" width="0.1524" layer="1"/>
+<wire x1="17.4625" y1="24.2189" x2="19.5072" y2="22.1742" width="0.1524" layer="1"/>
+<wire x1="19.5072" y1="22.1742" x2="19.5072" y2="17.6784" width="0.1524" layer="1"/>
+<wire x1="18.8477" y1="17.0189" x2="16.5981" y2="17.0189" width="0.1524" layer="1"/>
+<wire x1="19.5072" y1="17.6784" x2="18.8477" y2="17.0189" width="0.1524" layer="1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
