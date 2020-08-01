@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6219,7 +6219,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="C-EU" urn="urn:adsk.eagle:component:23793/45" prefix="C" uservalue="yes" library_version="10">
+<deviceset name="C-EU" urn="urn:adsk.eagle:component:23793/46" prefix="C" uservalue="yes" library_version="11">
 <description>&lt;B&gt;CAPACITOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="C-EU" x="0" y="0"/>
@@ -6235,6 +6235,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="18" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6249,6 +6250,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6263,6 +6265,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="73" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6277,6 +6280,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="88" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6291,6 +6295,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="54" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6305,6 +6310,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6319,6 +6325,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6333,6 +6340,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6347,6 +6355,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6361,6 +6370,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6375,6 +6385,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6389,6 +6400,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6403,6 +6415,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6417,6 +6430,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6431,6 +6445,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6445,6 +6460,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="56" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6459,6 +6475,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="65" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6473,6 +6490,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="14" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6487,6 +6505,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6501,6 +6520,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="16" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6515,6 +6535,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6529,6 +6550,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6543,6 +6565,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6557,6 +6580,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6571,6 +6595,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6585,6 +6610,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6599,6 +6625,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="33" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6613,6 +6640,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="29" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6627,6 +6655,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6641,6 +6670,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="9" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6655,6 +6685,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6669,6 +6700,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6683,6 +6715,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6697,6 +6730,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6711,6 +6745,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6725,6 +6760,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6739,6 +6775,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6753,6 +6790,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6767,6 +6805,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6781,6 +6820,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6795,6 +6835,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6809,6 +6850,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6823,6 +6865,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6837,6 +6880,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6851,6 +6895,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6865,6 +6910,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6879,6 +6925,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6893,6 +6940,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6907,6 +6955,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6921,6 +6970,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6935,6 +6985,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6949,6 +7000,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6963,6 +7015,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6977,6 +7030,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -6991,6 +7045,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7005,6 +7060,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7019,6 +7075,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7033,6 +7090,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7047,6 +7105,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7061,6 +7120,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7075,6 +7135,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7089,6 +7150,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7103,6 +7165,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7117,6 +7180,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7131,6 +7195,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7145,6 +7210,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="15" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7159,6 +7225,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="30" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7173,6 +7240,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="52" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7187,6 +7255,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="13" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7201,6 +7270,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7215,6 +7285,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7229,6 +7300,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7243,6 +7315,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7257,6 +7330,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7271,6 +7345,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7285,6 +7360,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7299,6 +7375,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7313,6 +7390,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
@@ -7327,13 +7405,20 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="C" constant="no"/>
 </technology>
 </technologies>
 </device>
 </devices>
+<spice>
+<pinmapping spiceprefix="C">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
 </deviceset>
-<deviceset name="R-EU_" urn="urn:adsk.eagle:component:23791/20" prefix="R" uservalue="yes" library_version="10">
+<deviceset name="R-EU_" urn="urn:adsk.eagle:component:23791/21" prefix="R" uservalue="yes" library_version="11">
 <description>&lt;B&gt;RESISTOR&lt;/B&gt;, European symbol</description>
 <gates>
 <gate name="G$1" symbol="R-EU" x="0" y="0"/>
@@ -7349,6 +7434,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7363,6 +7449,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="70" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7377,6 +7464,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="86" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7391,6 +7479,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7405,6 +7494,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="41" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7419,6 +7509,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7433,6 +7524,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7447,6 +7539,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7461,6 +7554,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7475,6 +7569,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7489,6 +7584,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7503,6 +7599,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7517,6 +7614,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7531,6 +7629,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7545,6 +7644,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7559,6 +7659,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="5" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7573,6 +7674,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7587,6 +7689,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7601,6 +7704,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7615,6 +7719,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7629,6 +7734,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7643,6 +7749,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7657,6 +7764,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="45" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7671,6 +7779,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="17" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7685,6 +7794,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7699,6 +7809,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7713,6 +7824,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7727,6 +7839,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7741,6 +7854,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7755,6 +7869,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7769,6 +7884,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="35" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7783,6 +7899,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="79" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7797,6 +7914,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="11" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7811,6 +7929,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="81" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7825,6 +7944,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="9" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7839,6 +7959,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7853,6 +7974,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="17" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7867,6 +7989,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7881,6 +8004,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="46" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7895,6 +8019,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7909,6 +8034,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="6" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7923,6 +8049,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7937,6 +8064,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="5" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7951,6 +8079,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7965,6 +8094,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="4" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7979,6 +8109,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -7993,6 +8124,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8007,6 +8139,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8021,6 +8154,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8035,6 +8169,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8049,6 +8184,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8063,6 +8199,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8077,6 +8214,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8091,6 +8229,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8105,6 +8244,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8119,6 +8259,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8133,6 +8274,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8147,6 +8289,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8161,6 +8304,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8175,6 +8319,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8189,6 +8334,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8203,6 +8349,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8217,6 +8364,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8231,6 +8379,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8245,6 +8394,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8259,6 +8409,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8273,6 +8424,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8287,6 +8439,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8301,6 +8454,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8315,6 +8469,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8329,6 +8484,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8343,6 +8499,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8357,6 +8514,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8371,6 +8529,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8385,6 +8544,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8399,6 +8559,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8413,6 +8574,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8427,6 +8589,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8441,6 +8604,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8455,6 +8619,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8469,6 +8634,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8483,6 +8649,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8497,6 +8664,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8511,6 +8679,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8525,6 +8694,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
@@ -8539,11 +8709,18 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 </package3dinstances>
 <technologies>
 <technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
 <attribute name="SPICEPREFIX" value="R" constant="no"/>
 </technology>
 </technologies>
 </device>
 </devices>
+<spice>
+<pinmapping spiceprefix="R">
+<pinmap gate="G$1" pin="1" pinorder="1"/>
+<pinmap gate="G$1" pin="2" pinorder="2"/>
+</pinmapping>
+</spice>
 </deviceset>
 </devicesets>
 </library>
@@ -12847,20 +13024,20 @@ Source: &lt;a href="https://www.ckswitches.com/media/1422/js.pdf"&gt; Datasheet 
 </package3d>
 </packages3d>
 <symbols>
-<symbol name="MV" urn="urn:adsk.eagle:symbol:8078125/1" library_version="3">
+<symbol name="MV" urn="urn:adsk.eagle:symbol:6783/2" library_version="5">
 <wire x1="1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
 <text x="2.54" y="-0.762" size="1.524" layer="95">&gt;NAME</text>
 <text x="-0.762" y="1.397" size="1.778" layer="96">&gt;VALUE</text>
 <pin name="S" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
 </symbol>
-<symbol name="M" urn="urn:adsk.eagle:symbol:8078124/1" library_version="3">
+<symbol name="M" urn="urn:adsk.eagle:symbol:6785/2" library_version="5">
 <wire x1="1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
 <text x="2.54" y="-0.762" size="1.524" layer="95">&gt;NAME</text>
 <pin name="S" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="53?-10" urn="urn:adsk.eagle:component:8078952/1" prefix="X" library_version="3">
+<deviceset name="53?-10" urn="urn:adsk.eagle:component:8078952/3" prefix="X" library_version="5">
 <description>&lt;b&gt;CONNECTOR&lt;/b&gt;&lt;p&gt;
 wire to board 1.25 mm (.049 inch) pitch header</description>
 <gates>
@@ -12898,6 +13075,7 @@ wire to board 1.25 mm (.049 inch) pitch header</description>
 <attribute name="MPN" value="53047-1010" constant="no"/>
 <attribute name="OC_FARNELL" value="9733086" constant="no"/>
 <attribute name="OC_NEWARK" value="57H4711" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -12923,6 +13101,7 @@ wire to board 1.25 mm (.049 inch) pitch header</description>
 <attribute name="MPN" value="53048-1010" constant="no"/>
 <attribute name="OC_FARNELL" value="9733108" constant="no"/>
 <attribute name="OC_NEWARK" value="98K9838" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -12948,6 +13127,7 @@ wire to board 1.25 mm (.049 inch) pitch header</description>
 <attribute name="MPN" value="" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="unknown" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -12973,6 +13153,7 @@ wire to board 1.25 mm (.049 inch) pitch header</description>
 <attribute name="MPN" value="53398-1071" constant="no"/>
 <attribute name="OC_FARNELL" value="unknown" constant="no"/>
 <attribute name="OC_NEWARK" value="59J0425" constant="no"/>
+<attribute name="POPULARITY" value="0" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -13266,71 +13447,48 @@ https://creativecommons.org/licenses/by-sa/4.0/</description>
 <circle x="21" y="-4" radius="3" width="0.4064" layer="41"/>
 <circle x="21" y="-21" radius="3" width="0.4064" layer="41"/>
 <circle x="4" y="-21" radius="3" width="0.4064" layer="41"/>
-<wire x1="0" y1="-21.5" x2="0" y2="-3.5" width="0" layer="21"/>
-<wire x1="0" y1="-3.5" x2="3.5" y2="0" width="0" layer="21" curve="-90"/>
-<wire x1="3.5" y1="0" x2="21.5" y2="0" width="0" layer="21"/>
-<wire x1="21.5" y1="0" x2="25" y2="-3.5" width="0" layer="21" curve="-90"/>
-<wire x1="25" y1="-3.5" x2="25" y2="-21.5" width="0" layer="21"/>
-<wire x1="25" y1="-21.5" x2="21.5" y2="-25" width="0" layer="21" curve="-90"/>
-<wire x1="21.5" y1="-25" x2="3.5" y2="-25" width="0" layer="21"/>
-<wire x1="3.5" y1="-25" x2="0" y2="-21.5" width="0" layer="21" curve="-90"/>
-<wire x1="9.325" y1="-1.85" x2="10.595" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="10.595" y1="-1.85" x2="11.23" y2="-2.985" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-2.985" x2="11.23" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-4.255" x2="10.595" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-2.985" x2="11.865" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="11.865" y1="-1.85" x2="13.135" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="13.135" y1="-1.85" x2="13.77" y2="-2.985" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-2.985" x2="13.77" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-4.255" x2="13.135" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="13.135" y1="-5.39" x2="11.865" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="11.865" y1="-5.39" x2="11.23" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="8.69" y1="-2.985" x2="8.69" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="9.325" y1="-1.85" x2="8.69" y2="-2.985" width="0.1524" layer="21"/>
-<wire x1="8.69" y1="-4.255" x2="9.325" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="10.595" y1="-5.39" x2="9.325" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-2.985" x2="14.405" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="14.405" y1="-1.85" x2="15.675" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="15.675" y1="-1.85" x2="16.31" y2="-2.985" width="0.1524" layer="21"/>
-<wire x1="16.31" y1="-2.985" x2="16.31" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="16.31" y1="-4.255" x2="15.675" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="15.675" y1="-5.39" x2="14.405" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="14.405" y1="-5.39" x2="13.77" y2="-4.255" width="0.1524" layer="21"/>
+<wire x1="0" y1="-21.5" x2="0" y2="-3.5" width="0.127" layer="21"/>
+<wire x1="0" y1="-3.5" x2="3.5" y2="0" width="0.127" layer="21" curve="-90"/>
+<wire x1="3.5" y1="0" x2="21.5" y2="0" width="0.127" layer="21"/>
+<wire x1="21.5" y1="0" x2="25" y2="-3.5" width="0.127" layer="21" curve="-90"/>
+<wire x1="25" y1="-3.5" x2="25" y2="-21.5" width="0.127" layer="21"/>
+<wire x1="25" y1="-21.5" x2="21.5" y2="-25" width="0.127" layer="21" curve="-90"/>
+<wire x1="21.5" y1="-25" x2="3.5" y2="-25" width="0.127" layer="21"/>
+<wire x1="3.5" y1="-25" x2="0" y2="-21.5" width="0.127" layer="21" curve="-90"/>
 <pad name="1" x="9.96" y="-3.62" drill="1.016" shape="long" rot="R90"/>
 <pad name="2" x="12.5" y="-3.62" drill="1.016" shape="long" rot="R90"/>
 <pad name="3" x="15.04" y="-3.62" drill="1.016" shape="long" rot="R90"/>
 <rectangle x1="12.246" y1="-3.874" x2="12.754" y2="-3.366" layer="51"/>
 <rectangle x1="9.706" y1="-3.874" x2="10.214" y2="-3.366" layer="51"/>
 <rectangle x1="14.786" y1="-3.874" x2="15.294" y2="-3.366" layer="51"/>
-<wire x1="9.325" y1="-19.61" x2="10.595" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="10.595" y1="-19.61" x2="11.23" y2="-20.745" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-20.745" x2="11.23" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-22.015" x2="10.595" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-20.745" x2="11.865" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="11.865" y1="-19.61" x2="13.135" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="13.135" y1="-19.61" x2="13.77" y2="-20.745" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-20.745" x2="13.77" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-22.015" x2="13.135" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="13.135" y1="-23.15" x2="11.865" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="11.865" y1="-23.15" x2="11.23" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="8.69" y1="-20.745" x2="8.69" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="9.325" y1="-19.61" x2="8.69" y2="-20.745" width="0.1524" layer="21"/>
-<wire x1="8.69" y1="-22.015" x2="9.325" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="10.595" y1="-23.15" x2="9.325" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-20.745" x2="14.405" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="14.405" y1="-19.61" x2="15.675" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="15.675" y1="-19.61" x2="16.31" y2="-20.745" width="0.1524" layer="21"/>
-<wire x1="16.31" y1="-20.745" x2="16.31" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="16.31" y1="-22.015" x2="15.675" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="15.675" y1="-23.15" x2="14.405" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="14.405" y1="-23.15" x2="13.77" y2="-22.015" width="0.1524" layer="21"/>
 <pad name="4" x="9.96" y="-21.38" drill="1.016" shape="long" rot="R90"/>
 <pad name="5" x="12.5" y="-21.38" drill="1.016" shape="long" rot="R90"/>
 <pad name="6" x="15.04" y="-21.38" drill="1.016" shape="long" rot="R90"/>
 <rectangle x1="12.246" y1="-21.634" x2="12.754" y2="-21.126" layer="51"/>
 <rectangle x1="9.706" y1="-21.634" x2="10.214" y2="-21.126" layer="51"/>
 <rectangle x1="14.786" y1="-21.634" x2="15.294" y2="-21.126" layer="51"/>
-<text x="9.96" y="-1.3875" size="0.4064" layer="21" align="center">UVA</text>
+<wire x1="8.75" y1="-2.9" x2="8.75" y2="-4.5" width="0.127" layer="21"/>
+<wire x1="11.25" y1="-2.9" x2="11.25" y2="-4.5" width="0.127" layer="21"/>
+<wire x1="13.75" y1="-2.9" x2="13.75" y2="-3" width="0.127" layer="21"/>
+<wire x1="13.75" y1="-3" x2="13.75" y2="-4.5" width="0.127" layer="21"/>
+<wire x1="16.25" y1="-2.9" x2="16.25" y2="-4.5" width="0.127" layer="21"/>
+<wire x1="8.75" y1="-2.9" x2="11.25" y2="-2.9" width="0.127" layer="21" curve="-180"/>
+<wire x1="8.75" y1="-4.5" x2="11.25" y2="-4.5" width="0.127" layer="21" curve="180"/>
+<wire x1="11.25" y1="-2.9" x2="13.75" y2="-2.9" width="0.127" layer="21" curve="-180"/>
+<wire x1="11.25" y1="-4.5" x2="13.75" y2="-4.5" width="0.127" layer="21" curve="180"/>
+<wire x1="13.75" y1="-3" x2="16.25" y2="-2.9" width="0.127" layer="21" curve="-182.287868"/>
+<wire x1="13.75" y1="-4.5" x2="16.25" y2="-4.5" width="0.127" layer="21" curve="180"/>
+<wire x1="8.75" y1="-20.55" x2="8.75" y2="-22.15" width="0.127" layer="21"/>
+<wire x1="11.25" y1="-20.55" x2="11.25" y2="-22.15" width="0.127" layer="21"/>
+<wire x1="13.75" y1="-20.55" x2="13.75" y2="-20.65" width="0.127" layer="21"/>
+<wire x1="13.75" y1="-20.65" x2="13.75" y2="-22.15" width="0.127" layer="21"/>
+<wire x1="16.25" y1="-20.55" x2="16.25" y2="-22.15" width="0.127" layer="21"/>
+<wire x1="8.75" y1="-20.55" x2="11.25" y2="-20.55" width="0.127" layer="21" curve="-180"/>
+<wire x1="8.75" y1="-22.15" x2="11.25" y2="-22.15" width="0.127" layer="21" curve="180"/>
+<wire x1="11.25" y1="-20.55" x2="13.75" y2="-20.55" width="0.127" layer="21" curve="-180"/>
+<wire x1="11.25" y1="-22.15" x2="13.75" y2="-22.15" width="0.127" layer="21" curve="180"/>
+<wire x1="13.75" y1="-20.65" x2="16.25" y2="-20.55" width="0.127" layer="21" curve="-182.287868"/>
+<wire x1="13.75" y1="-22.15" x2="16.25" y2="-22.15" width="0.127" layer="21" curve="180"/>
 </package>
 <package name="UVB_MODULE">
 <circle x="4.05" y="-4.05" radius="3.5" width="0.4064" layer="42"/>
@@ -13345,71 +13503,48 @@ https://creativecommons.org/licenses/by-sa/4.0/</description>
 <circle x="21.05" y="-4.05" radius="3" width="0.4064" layer="41"/>
 <circle x="21.05" y="-21.05" radius="3" width="0.4064" layer="41"/>
 <circle x="4.05" y="-21.05" radius="3" width="0.4064" layer="41"/>
-<wire x1="0.05" y1="-21.55" x2="0.05" y2="-3.55" width="0" layer="21"/>
-<wire x1="0.05" y1="-3.55" x2="3.55" y2="-0.05" width="0" layer="21" curve="-90"/>
-<wire x1="3.55" y1="-0.05" x2="21.55" y2="-0.05" width="0" layer="21"/>
-<wire x1="21.55" y1="-0.05" x2="25.05" y2="-3.55" width="0" layer="21" curve="-90"/>
-<wire x1="25.05" y1="-3.55" x2="25.05" y2="-21.55" width="0" layer="21"/>
-<wire x1="25.05" y1="-21.55" x2="21.55" y2="-25.05" width="0" layer="21" curve="-90"/>
-<wire x1="21.55" y1="-25.05" x2="3.55" y2="-25.05" width="0" layer="21"/>
-<wire x1="3.55" y1="-25.05" x2="0.05" y2="-21.55" width="0" layer="21" curve="-90"/>
-<wire x1="9.375" y1="-1.9" x2="10.645" y2="-1.9" width="0.1524" layer="21"/>
-<wire x1="10.645" y1="-1.9" x2="11.28" y2="-3.035" width="0.1524" layer="21"/>
-<wire x1="11.28" y1="-3.035" x2="11.28" y2="-4.305" width="0.1524" layer="21"/>
-<wire x1="11.28" y1="-4.305" x2="10.645" y2="-5.44" width="0.1524" layer="21"/>
-<wire x1="11.28" y1="-3.035" x2="11.915" y2="-1.9" width="0.1524" layer="21"/>
-<wire x1="11.915" y1="-1.9" x2="13.185" y2="-1.9" width="0.1524" layer="21"/>
-<wire x1="13.185" y1="-1.9" x2="13.82" y2="-3.035" width="0.1524" layer="21"/>
-<wire x1="13.82" y1="-3.035" x2="13.82" y2="-4.305" width="0.1524" layer="21"/>
-<wire x1="13.82" y1="-4.305" x2="13.185" y2="-5.44" width="0.1524" layer="21"/>
-<wire x1="13.185" y1="-5.44" x2="11.915" y2="-5.44" width="0.1524" layer="21"/>
-<wire x1="11.915" y1="-5.44" x2="11.28" y2="-4.305" width="0.1524" layer="21"/>
-<wire x1="8.74" y1="-3.035" x2="8.74" y2="-4.305" width="0.1524" layer="21"/>
-<wire x1="9.375" y1="-1.9" x2="8.74" y2="-3.035" width="0.1524" layer="21"/>
-<wire x1="8.74" y1="-4.305" x2="9.375" y2="-5.44" width="0.1524" layer="21"/>
-<wire x1="10.645" y1="-5.44" x2="9.375" y2="-5.44" width="0.1524" layer="21"/>
-<wire x1="13.82" y1="-3.035" x2="14.455" y2="-1.9" width="0.1524" layer="21"/>
-<wire x1="14.455" y1="-1.9" x2="15.725" y2="-1.9" width="0.1524" layer="21"/>
-<wire x1="15.725" y1="-1.9" x2="16.36" y2="-3.035" width="0.1524" layer="21"/>
-<wire x1="16.36" y1="-3.035" x2="16.36" y2="-4.305" width="0.1524" layer="21"/>
-<wire x1="16.36" y1="-4.305" x2="15.725" y2="-5.44" width="0.1524" layer="21"/>
-<wire x1="15.725" y1="-5.44" x2="14.455" y2="-5.44" width="0.1524" layer="21"/>
-<wire x1="14.455" y1="-5.44" x2="13.82" y2="-4.305" width="0.1524" layer="21"/>
 <pad name="1" x="10.01" y="-3.67" drill="1.016" shape="long" rot="R90"/>
 <pad name="2" x="12.55" y="-3.67" drill="1.016" shape="long" rot="R90"/>
 <pad name="3" x="15.09" y="-3.67" drill="1.016" shape="long" rot="R90"/>
 <rectangle x1="12.296" y1="-3.924" x2="12.804" y2="-3.416" layer="51"/>
 <rectangle x1="9.756" y1="-3.924" x2="10.264" y2="-3.416" layer="51"/>
 <rectangle x1="14.836" y1="-3.924" x2="15.344" y2="-3.416" layer="51"/>
-<wire x1="9.375" y1="-19.66" x2="10.645" y2="-19.66" width="0.1524" layer="21"/>
-<wire x1="10.645" y1="-19.66" x2="11.28" y2="-20.795" width="0.1524" layer="21"/>
-<wire x1="11.28" y1="-20.795" x2="11.28" y2="-22.065" width="0.1524" layer="21"/>
-<wire x1="11.28" y1="-22.065" x2="10.645" y2="-23.2" width="0.1524" layer="21"/>
-<wire x1="11.28" y1="-20.795" x2="11.915" y2="-19.66" width="0.1524" layer="21"/>
-<wire x1="11.915" y1="-19.66" x2="13.185" y2="-19.66" width="0.1524" layer="21"/>
-<wire x1="13.185" y1="-19.66" x2="13.82" y2="-20.795" width="0.1524" layer="21"/>
-<wire x1="13.82" y1="-20.795" x2="13.82" y2="-22.065" width="0.1524" layer="21"/>
-<wire x1="13.82" y1="-22.065" x2="13.185" y2="-23.2" width="0.1524" layer="21"/>
-<wire x1="13.185" y1="-23.2" x2="11.915" y2="-23.2" width="0.1524" layer="21"/>
-<wire x1="11.915" y1="-23.2" x2="11.28" y2="-22.065" width="0.1524" layer="21"/>
-<wire x1="8.74" y1="-20.795" x2="8.74" y2="-22.065" width="0.1524" layer="21"/>
-<wire x1="9.375" y1="-19.66" x2="8.74" y2="-20.795" width="0.1524" layer="21"/>
-<wire x1="8.74" y1="-22.065" x2="9.375" y2="-23.2" width="0.1524" layer="21"/>
-<wire x1="10.645" y1="-23.2" x2="9.375" y2="-23.2" width="0.1524" layer="21"/>
-<wire x1="13.82" y1="-20.795" x2="14.455" y2="-19.66" width="0.1524" layer="21"/>
-<wire x1="14.455" y1="-19.66" x2="15.725" y2="-19.66" width="0.1524" layer="21"/>
-<wire x1="15.725" y1="-19.66" x2="16.36" y2="-20.795" width="0.1524" layer="21"/>
-<wire x1="16.36" y1="-20.795" x2="16.36" y2="-22.065" width="0.1524" layer="21"/>
-<wire x1="16.36" y1="-22.065" x2="15.725" y2="-23.2" width="0.1524" layer="21"/>
-<wire x1="15.725" y1="-23.2" x2="14.455" y2="-23.2" width="0.1524" layer="21"/>
-<wire x1="14.455" y1="-23.2" x2="13.82" y2="-22.065" width="0.1524" layer="21"/>
 <pad name="4" x="10.01" y="-21.43" drill="1.016" shape="long" rot="R90"/>
 <pad name="5" x="12.55" y="-21.43" drill="1.016" shape="long" rot="R90"/>
 <pad name="6" x="15.09" y="-21.43" drill="1.016" shape="long" rot="R90"/>
 <rectangle x1="12.296" y1="-21.684" x2="12.804" y2="-21.176" layer="51"/>
 <rectangle x1="9.756" y1="-21.684" x2="10.264" y2="-21.176" layer="51"/>
 <rectangle x1="14.836" y1="-21.684" x2="15.344" y2="-21.176" layer="51"/>
-<text x="10.01" y="-1.4375" size="0.4064" layer="21" align="center">UVB</text>
+<wire x1="8.8" y1="-2.85" x2="8.8" y2="-4.45" width="0.127" layer="21"/>
+<wire x1="11.3" y1="-2.85" x2="11.3" y2="-4.45" width="0.127" layer="21"/>
+<wire x1="13.8" y1="-2.85" x2="13.8" y2="-2.95" width="0.127" layer="21"/>
+<wire x1="13.8" y1="-2.95" x2="13.8" y2="-4.45" width="0.127" layer="21"/>
+<wire x1="16.3" y1="-2.85" x2="16.3" y2="-4.45" width="0.127" layer="21"/>
+<wire x1="8.8" y1="-2.85" x2="11.3" y2="-2.85" width="0.127" layer="21" curve="-180"/>
+<wire x1="8.8" y1="-4.45" x2="11.3" y2="-4.45" width="0.127" layer="21" curve="180"/>
+<wire x1="11.3" y1="-2.85" x2="13.8" y2="-2.85" width="0.127" layer="21" curve="-180"/>
+<wire x1="11.3" y1="-4.45" x2="13.8" y2="-4.45" width="0.127" layer="21" curve="180"/>
+<wire x1="13.8" y1="-2.95" x2="16.3" y2="-2.85" width="0.127" layer="21" curve="-182.287868"/>
+<wire x1="13.8" y1="-4.45" x2="16.3" y2="-4.45" width="0.127" layer="21" curve="180"/>
+<wire x1="8.8" y1="-20.65" x2="8.8" y2="-22.25" width="0.127" layer="21"/>
+<wire x1="11.3" y1="-20.65" x2="11.3" y2="-22.25" width="0.127" layer="21"/>
+<wire x1="13.8" y1="-20.65" x2="13.8" y2="-20.75" width="0.127" layer="21"/>
+<wire x1="13.8" y1="-20.75" x2="13.8" y2="-22.25" width="0.127" layer="21"/>
+<wire x1="16.3" y1="-20.65" x2="16.3" y2="-22.25" width="0.127" layer="21"/>
+<wire x1="8.8" y1="-20.65" x2="11.3" y2="-20.65" width="0.127" layer="21" curve="-180"/>
+<wire x1="8.8" y1="-22.25" x2="11.3" y2="-22.25" width="0.127" layer="21" curve="180"/>
+<wire x1="11.3" y1="-20.65" x2="13.8" y2="-20.65" width="0.127" layer="21" curve="-180"/>
+<wire x1="11.3" y1="-22.25" x2="13.8" y2="-22.25" width="0.127" layer="21" curve="180"/>
+<wire x1="13.8" y1="-20.75" x2="16.3" y2="-20.65" width="0.127" layer="21" curve="-182.287868"/>
+<wire x1="13.8" y1="-22.25" x2="16.3" y2="-22.25" width="0.127" layer="21" curve="180"/>
+<wire x1="0" y1="-21.5" x2="0" y2="-3.5" width="0.127" layer="21"/>
+<wire x1="0" y1="-3.5" x2="3.5" y2="0" width="0.127" layer="21" curve="-90"/>
+<wire x1="3.5" y1="0" x2="21.5" y2="0" width="0.127" layer="21"/>
+<wire x1="21.5" y1="0" x2="25" y2="-3.5" width="0.127" layer="21" curve="-90"/>
+<wire x1="25" y1="-3.5" x2="25" y2="-21.5" width="0.127" layer="21"/>
+<wire x1="25" y1="-21.5" x2="21.5" y2="-25" width="0.127" layer="21" curve="-90"/>
+<wire x1="21.5" y1="-25" x2="3.5" y2="-25" width="0.127" layer="21"/>
+<wire x1="3.5" y1="-25" x2="0" y2="-21.5" width="0.127" layer="21" curve="-90"/>
 </package>
 <package name="UVC_MODULE">
 <circle x="4" y="-4" radius="3.5" width="0.4064" layer="42"/>
@@ -13424,148 +13559,124 @@ https://creativecommons.org/licenses/by-sa/4.0/</description>
 <circle x="21" y="-4" radius="3" width="0.4064" layer="41"/>
 <circle x="21" y="-21" radius="3" width="0.4064" layer="41"/>
 <circle x="4" y="-21" radius="3" width="0.4064" layer="41"/>
-<wire x1="0" y1="-21.5" x2="0" y2="-3.5" width="0" layer="21"/>
-<wire x1="0" y1="-3.5" x2="3.5" y2="0" width="0" layer="21" curve="-90"/>
-<wire x1="3.5" y1="0" x2="21.5" y2="0" width="0" layer="21"/>
-<wire x1="21.5" y1="0" x2="25" y2="-3.5" width="0" layer="21" curve="-90"/>
-<wire x1="25" y1="-3.5" x2="25" y2="-21.5" width="0" layer="21"/>
-<wire x1="25" y1="-21.5" x2="21.5" y2="-25" width="0" layer="21" curve="-90"/>
-<wire x1="21.5" y1="-25" x2="3.5" y2="-25" width="0" layer="21"/>
-<wire x1="3.5" y1="-25" x2="0" y2="-21.5" width="0" layer="21" curve="-90"/>
-<wire x1="9.325" y1="-1.85" x2="10.595" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="10.595" y1="-1.85" x2="11.23" y2="-2.985" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-2.985" x2="11.23" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-4.255" x2="10.595" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-2.985" x2="11.865" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="11.865" y1="-1.85" x2="13.135" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="13.135" y1="-1.85" x2="13.77" y2="-2.985" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-2.985" x2="13.77" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-4.255" x2="13.135" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="13.135" y1="-5.39" x2="11.865" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="11.865" y1="-5.39" x2="11.23" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="8.69" y1="-2.985" x2="8.69" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="9.325" y1="-1.85" x2="8.69" y2="-2.985" width="0.1524" layer="21"/>
-<wire x1="8.69" y1="-4.255" x2="9.325" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="10.595" y1="-5.39" x2="9.325" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-2.985" x2="14.405" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="14.405" y1="-1.85" x2="15.675" y2="-1.85" width="0.1524" layer="21"/>
-<wire x1="15.675" y1="-1.85" x2="16.31" y2="-2.985" width="0.1524" layer="21"/>
-<wire x1="16.31" y1="-2.985" x2="16.31" y2="-4.255" width="0.1524" layer="21"/>
-<wire x1="16.31" y1="-4.255" x2="15.675" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="15.675" y1="-5.39" x2="14.405" y2="-5.39" width="0.1524" layer="21"/>
-<wire x1="14.405" y1="-5.39" x2="13.77" y2="-4.255" width="0.1524" layer="21"/>
 <pad name="1" x="9.96" y="-3.62" drill="1.016" shape="long" rot="R90"/>
 <pad name="2" x="12.5" y="-3.62" drill="1.016" shape="long" rot="R90"/>
 <pad name="3" x="15.04" y="-3.62" drill="1.016" shape="long" rot="R90"/>
 <rectangle x1="12.246" y1="-3.874" x2="12.754" y2="-3.366" layer="51"/>
 <rectangle x1="9.706" y1="-3.874" x2="10.214" y2="-3.366" layer="51"/>
 <rectangle x1="14.786" y1="-3.874" x2="15.294" y2="-3.366" layer="51"/>
-<wire x1="9.325" y1="-19.61" x2="10.595" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="10.595" y1="-19.61" x2="11.23" y2="-20.745" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-20.745" x2="11.23" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-22.015" x2="10.595" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="11.23" y1="-20.745" x2="11.865" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="11.865" y1="-19.61" x2="13.135" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="13.135" y1="-19.61" x2="13.77" y2="-20.745" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-20.745" x2="13.77" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-22.015" x2="13.135" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="13.135" y1="-23.15" x2="11.865" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="11.865" y1="-23.15" x2="11.23" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="8.69" y1="-20.745" x2="8.69" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="9.325" y1="-19.61" x2="8.69" y2="-20.745" width="0.1524" layer="21"/>
-<wire x1="8.69" y1="-22.015" x2="9.325" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="10.595" y1="-23.15" x2="9.325" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="13.77" y1="-20.745" x2="14.405" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="14.405" y1="-19.61" x2="15.675" y2="-19.61" width="0.1524" layer="21"/>
-<wire x1="15.675" y1="-19.61" x2="16.31" y2="-20.745" width="0.1524" layer="21"/>
-<wire x1="16.31" y1="-20.745" x2="16.31" y2="-22.015" width="0.1524" layer="21"/>
-<wire x1="16.31" y1="-22.015" x2="15.675" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="15.675" y1="-23.15" x2="14.405" y2="-23.15" width="0.1524" layer="21"/>
-<wire x1="14.405" y1="-23.15" x2="13.77" y2="-22.015" width="0.1524" layer="21"/>
 <pad name="4" x="9.96" y="-21.38" drill="1.016" shape="long" rot="R90"/>
 <pad name="5" x="12.5" y="-21.38" drill="1.016" shape="long" rot="R90"/>
 <pad name="6" x="15.04" y="-21.38" drill="1.016" shape="long" rot="R90"/>
 <rectangle x1="12.246" y1="-21.634" x2="12.754" y2="-21.126" layer="51"/>
 <rectangle x1="9.706" y1="-21.634" x2="10.214" y2="-21.126" layer="51"/>
 <rectangle x1="14.786" y1="-21.634" x2="15.294" y2="-21.126" layer="51"/>
-<text x="10.0425" y="-1.47" size="0.4064" layer="21" rot="R180" align="center">UVC</text>
+<wire x1="8.75" y1="-2.8" x2="8.75" y2="-4.4" width="0.127" layer="21"/>
+<wire x1="11.25" y1="-2.8" x2="11.25" y2="-4.4" width="0.127" layer="21"/>
+<wire x1="13.75" y1="-2.8" x2="13.75" y2="-2.9" width="0.127" layer="21"/>
+<wire x1="13.75" y1="-2.9" x2="13.75" y2="-4.4" width="0.127" layer="21"/>
+<wire x1="16.25" y1="-2.8" x2="16.25" y2="-4.4" width="0.127" layer="21"/>
+<wire x1="8.75" y1="-2.8" x2="11.25" y2="-2.8" width="0.127" layer="21" curve="-180"/>
+<wire x1="8.75" y1="-4.4" x2="11.25" y2="-4.4" width="0.127" layer="21" curve="180"/>
+<wire x1="11.25" y1="-2.8" x2="13.75" y2="-2.8" width="0.127" layer="21" curve="-180"/>
+<wire x1="11.25" y1="-4.4" x2="13.75" y2="-4.4" width="0.127" layer="21" curve="180"/>
+<wire x1="13.75" y1="-2.9" x2="16.25" y2="-2.8" width="0.127" layer="21" curve="-182.287868"/>
+<wire x1="13.75" y1="-4.4" x2="16.25" y2="-4.4" width="0.127" layer="21" curve="180"/>
+<wire x1="8.75" y1="-20.55" x2="8.75" y2="-22.15" width="0.127" layer="21"/>
+<wire x1="11.25" y1="-20.55" x2="11.25" y2="-22.15" width="0.127" layer="21"/>
+<wire x1="13.75" y1="-20.55" x2="13.75" y2="-20.65" width="0.127" layer="21"/>
+<wire x1="13.75" y1="-20.65" x2="13.75" y2="-22.15" width="0.127" layer="21"/>
+<wire x1="16.25" y1="-20.55" x2="16.25" y2="-22.15" width="0.127" layer="21"/>
+<wire x1="8.75" y1="-20.55" x2="11.25" y2="-20.55" width="0.127" layer="21" curve="-180"/>
+<wire x1="8.75" y1="-22.15" x2="11.25" y2="-22.15" width="0.127" layer="21" curve="180"/>
+<wire x1="11.25" y1="-20.55" x2="13.75" y2="-20.55" width="0.127" layer="21" curve="-180"/>
+<wire x1="11.25" y1="-22.15" x2="13.75" y2="-22.15" width="0.127" layer="21" curve="180"/>
+<wire x1="13.75" y1="-20.65" x2="16.25" y2="-20.55" width="0.127" layer="21" curve="-182.287868"/>
+<wire x1="13.75" y1="-22.15" x2="16.25" y2="-22.15" width="0.127" layer="21" curve="180"/>
+<wire x1="0" y1="-21.5" x2="0" y2="-3.5" width="0.127" layer="21"/>
+<wire x1="0" y1="-3.5" x2="3.5" y2="0" width="0.127" layer="21" curve="-90"/>
+<wire x1="3.5" y1="0" x2="21.5" y2="0" width="0.127" layer="21"/>
+<wire x1="21.5" y1="0" x2="25" y2="-3.5" width="0.127" layer="21" curve="-90"/>
+<wire x1="25" y1="-3.5" x2="25" y2="-21.5" width="0.127" layer="21"/>
+<wire x1="25" y1="-21.5" x2="21.5" y2="-25" width="0.127" layer="21" curve="-90"/>
+<wire x1="21.5" y1="-25" x2="3.5" y2="-25" width="0.127" layer="21"/>
+<wire x1="3.5" y1="-25" x2="0" y2="-21.5" width="0.127" layer="21" curve="-90"/>
 </package>
 </packages>
 <symbols>
 <symbol name="UVA_MODULE">
-<wire x1="-8.763" y1="6.35" x2="-8.763" y2="-6.35" width="0.254" layer="94"/>
-<wire x1="-8.763" y1="-6.35" x2="-6.223" y2="-8.89" width="0.254" layer="94" curve="90"/>
-<wire x1="-6.223" y1="-8.89" x2="6.477" y2="-8.89" width="0.254" layer="94"/>
-<wire x1="6.477" y1="-8.89" x2="9.017" y2="-6.35" width="0.254" layer="94" curve="90"/>
-<wire x1="9.017" y1="-6.35" x2="9.017" y2="6.35" width="0.254" layer="94"/>
-<wire x1="9.017" y1="6.35" x2="6.477" y2="8.89" width="0.254" layer="94" curve="90"/>
-<wire x1="6.477" y1="8.89" x2="-6.223" y2="8.89" width="0.254" layer="94"/>
-<wire x1="-6.223" y1="8.89" x2="-8.763" y2="6.35" width="0.254" layer="94" curve="90"/>
-<wire x1="1.397" y1="3.81" x2="-1.143" y2="3.81" width="0.254" layer="94"/>
-<wire x1="-1.143" y1="3.81" x2="-3.683" y2="1.27" width="0.254" layer="94" curve="90"/>
-<wire x1="-3.683" y1="1.27" x2="-3.683" y2="-1.27" width="0.254" layer="94"/>
-<wire x1="-3.683" y1="-1.27" x2="-1.143" y2="-3.81" width="0.254" layer="94" curve="90"/>
-<wire x1="-1.143" y1="-3.81" x2="1.397" y2="-3.81" width="0.254" layer="94"/>
-<wire x1="1.397" y1="-3.81" x2="3.937" y2="-1.27" width="0.254" layer="94" curve="90"/>
-<wire x1="3.937" y1="-1.27" x2="3.937" y2="1.27" width="0.254" layer="94"/>
-<wire x1="3.937" y1="1.27" x2="1.397" y2="3.81" width="0.254" layer="94" curve="90"/>
-<text x="-1.778" y="1.27" size="1.27" layer="94">UVA</text>
-<pin name="SDA" x="14.097" y="-6.15" length="middle" rot="R180"/>
-<pin name="SCL" x="14.097" y="6.15" length="middle" rot="R180"/>
-<pin name="3V3" x="-13.843" y="0.15" length="middle"/>
-<pin name="GND_0" x="-13.843" y="6.35" length="middle"/>
-<pin name="GND_2" x="14.115" y="0" length="middle" rot="R180"/>
-<pin name="GND_1" x="-13.885" y="-6.25" length="middle"/>
+<wire x1="-6.35" y1="-8.128" x2="6.35" y2="-8.128" width="0.254" layer="94"/>
+<wire x1="6.35" y1="-8.128" x2="8.89" y2="-5.588" width="0.254" layer="94" curve="90"/>
+<wire x1="8.89" y1="-5.588" x2="8.89" y2="7.112" width="0.254" layer="94"/>
+<wire x1="8.89" y1="7.112" x2="6.35" y2="9.652" width="0.254" layer="94" curve="90"/>
+<wire x1="6.35" y1="9.652" x2="-6.35" y2="9.652" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="9.652" x2="-8.89" y2="7.112" width="0.254" layer="94" curve="90"/>
+<wire x1="-8.89" y1="7.112" x2="-8.89" y2="-5.588" width="0.254" layer="94"/>
+<wire x1="-8.89" y1="-5.588" x2="-6.35" y2="-8.128" width="0.254" layer="94" curve="90"/>
+<wire x1="-3.81" y1="2.032" x2="-3.81" y2="-0.508" width="0.254" layer="94"/>
+<wire x1="-3.81" y1="-0.508" x2="-1.27" y2="-3.048" width="0.254" layer="94" curve="90"/>
+<wire x1="-1.27" y1="-3.048" x2="1.27" y2="-3.048" width="0.254" layer="94"/>
+<wire x1="1.27" y1="-3.048" x2="3.81" y2="-0.508" width="0.254" layer="94" curve="90"/>
+<wire x1="3.81" y1="-0.508" x2="3.81" y2="2.032" width="0.254" layer="94"/>
+<wire x1="3.81" y1="2.032" x2="1.27" y2="4.572" width="0.254" layer="94" curve="90"/>
+<wire x1="1.27" y1="4.572" x2="-1.27" y2="4.572" width="0.254" layer="94"/>
+<wire x1="-1.27" y1="4.572" x2="-3.81" y2="2.032" width="0.254" layer="94" curve="90"/>
+<text x="-1.778" y="0" size="1.27" layer="94">UVA</text>
+<pin name="SDA" x="6.15" y="14.732" length="middle" rot="R270"/>
+<pin name="SCL" x="-6.15" y="14.732" length="middle" rot="R270"/>
+<pin name="3V3" x="-0.15" y="-13.208" length="middle" rot="R90"/>
+<pin name="GND_0" x="-6.35" y="-13.208" length="middle" rot="R90"/>
+<pin name="GND_2" x="0" y="14.75" length="middle" rot="R270"/>
+<pin name="GND_1" x="6.25" y="-13.25" length="middle" rot="R90"/>
 </symbol>
 <symbol name="UVB_MODULE">
-<wire x1="-8.763" y1="6.35" x2="-8.763" y2="-6.35" width="0.254" layer="94"/>
-<wire x1="-8.763" y1="-6.35" x2="-6.223" y2="-8.89" width="0.254" layer="94" curve="90"/>
-<wire x1="-6.223" y1="-8.89" x2="6.477" y2="-8.89" width="0.254" layer="94"/>
-<wire x1="6.477" y1="-8.89" x2="9.017" y2="-6.35" width="0.254" layer="94" curve="90"/>
-<wire x1="9.017" y1="-6.35" x2="9.017" y2="6.35" width="0.254" layer="94"/>
-<wire x1="9.017" y1="6.35" x2="6.477" y2="8.89" width="0.254" layer="94" curve="90"/>
-<wire x1="6.477" y1="8.89" x2="-6.223" y2="8.89" width="0.254" layer="94"/>
-<wire x1="-6.223" y1="8.89" x2="-8.763" y2="6.35" width="0.254" layer="94" curve="90"/>
-<wire x1="1.397" y1="3.81" x2="-1.143" y2="3.81" width="0.254" layer="94"/>
-<wire x1="-1.143" y1="3.81" x2="-3.683" y2="1.27" width="0.254" layer="94" curve="90"/>
-<wire x1="-3.683" y1="1.27" x2="-3.683" y2="-1.27" width="0.254" layer="94"/>
-<wire x1="-3.683" y1="-1.27" x2="-1.143" y2="-3.81" width="0.254" layer="94" curve="90"/>
-<wire x1="-1.143" y1="-3.81" x2="1.397" y2="-3.81" width="0.254" layer="94"/>
-<wire x1="1.397" y1="-3.81" x2="3.937" y2="-1.27" width="0.254" layer="94" curve="90"/>
-<wire x1="3.937" y1="-1.27" x2="3.937" y2="1.27" width="0.254" layer="94"/>
-<wire x1="3.937" y1="1.27" x2="1.397" y2="3.81" width="0.254" layer="94" curve="90"/>
-<text x="-1.778" y="1.27" size="1.27" layer="94">UVB</text>
-<pin name="SDA" x="14.097" y="-6.15" length="middle" rot="R180"/>
-<pin name="SCL" x="14.097" y="6.15" length="middle" rot="R180"/>
-<pin name="3V3" x="-13.843" y="0.15" length="middle"/>
-<pin name="GND_0" x="-13.843" y="6.35" length="middle"/>
-<pin name="GND_2" x="14.115" y="0" length="middle" rot="R180"/>
-<pin name="GND_1" x="-13.885" y="-6.25" length="middle"/>
+<wire x1="-6.35" y1="-8.128" x2="6.35" y2="-8.128" width="0.254" layer="94"/>
+<wire x1="6.35" y1="-8.128" x2="8.89" y2="-5.588" width="0.254" layer="94" curve="90"/>
+<wire x1="8.89" y1="-5.588" x2="8.89" y2="7.112" width="0.254" layer="94"/>
+<wire x1="8.89" y1="7.112" x2="6.35" y2="9.652" width="0.254" layer="94" curve="90"/>
+<wire x1="6.35" y1="9.652" x2="-6.35" y2="9.652" width="0.254" layer="94"/>
+<wire x1="-6.35" y1="9.652" x2="-8.89" y2="7.112" width="0.254" layer="94" curve="90"/>
+<wire x1="-8.89" y1="7.112" x2="-8.89" y2="-5.588" width="0.254" layer="94"/>
+<wire x1="-8.89" y1="-5.588" x2="-6.35" y2="-8.128" width="0.254" layer="94" curve="90"/>
+<wire x1="-3.81" y1="2.032" x2="-3.81" y2="-0.508" width="0.254" layer="94"/>
+<wire x1="-3.81" y1="-0.508" x2="-1.27" y2="-3.048" width="0.254" layer="94" curve="90"/>
+<wire x1="-1.27" y1="-3.048" x2="1.27" y2="-3.048" width="0.254" layer="94"/>
+<wire x1="1.27" y1="-3.048" x2="3.81" y2="-0.508" width="0.254" layer="94" curve="90"/>
+<wire x1="3.81" y1="-0.508" x2="3.81" y2="2.032" width="0.254" layer="94"/>
+<wire x1="3.81" y1="2.032" x2="1.27" y2="4.572" width="0.254" layer="94" curve="90"/>
+<wire x1="1.27" y1="4.572" x2="-1.27" y2="4.572" width="0.254" layer="94"/>
+<wire x1="-1.27" y1="4.572" x2="-3.81" y2="2.032" width="0.254" layer="94" curve="90"/>
+<text x="-1.778" y="0" size="1.27" layer="94">UVB</text>
+<pin name="SDA" x="6.15" y="14.732" length="middle" rot="R270"/>
+<pin name="SCL" x="-6.15" y="14.732" length="middle" rot="R270"/>
+<pin name="3V3" x="-0.15" y="-13.208" length="middle" rot="R90"/>
+<pin name="GND_0" x="-6.35" y="-13.208" length="middle" rot="R90"/>
+<pin name="GND_2" x="0" y="14.75" length="middle" rot="R270"/>
+<pin name="GND_1" x="6.25" y="-13.25" length="middle" rot="R90"/>
 </symbol>
 <symbol name="UVC_MODULE">
-<wire x1="6.39" y1="7.62" x2="-6.39" y2="7.62" width="0.1524" layer="94"/>
-<wire x1="-6.39" y1="7.62" x2="-8.89" y2="5.12" width="0.1524" layer="94" curve="90"/>
-<wire x1="-8.89" y1="5.12" x2="-8.89" y2="-5.12" width="0.1524" layer="94"/>
-<wire x1="-8.89" y1="-5.12" x2="-6.39" y2="-7.62" width="0.1524" layer="94" curve="90"/>
-<wire x1="-6.39" y1="-7.62" x2="6.39" y2="-7.62" width="0.1524" layer="94"/>
-<wire x1="6.39" y1="-7.62" x2="8.89" y2="-5.12" width="0.1524" layer="94" curve="90"/>
-<wire x1="8.89" y1="-5.12" x2="8.89" y2="5.12" width="0.1524" layer="94"/>
-<wire x1="8.89" y1="5.12" x2="6.39" y2="7.62" width="0.1524" layer="94" curve="90"/>
-<wire x1="5.35" y1="5.08" x2="-5.35" y2="5.08" width="0.1524" layer="94"/>
-<wire x1="-5.35" y1="5.08" x2="-6.35" y2="4.08" width="0.1524" layer="94" curve="90"/>
-<wire x1="-6.35" y1="4.08" x2="-6.35" y2="-4.08" width="0.1524" layer="94"/>
-<wire x1="-6.35" y1="-4.08" x2="-5.35" y2="-5.08" width="0.1524" layer="94" curve="90"/>
-<wire x1="-5.35" y1="-5.08" x2="5.35" y2="-5.08" width="0.1524" layer="94"/>
-<wire x1="5.35" y1="-5.08" x2="6.35" y2="-4.08" width="0.1524" layer="94" curve="90"/>
-<wire x1="6.35" y1="-4.08" x2="6.35" y2="4.08" width="0.1524" layer="94"/>
-<wire x1="6.35" y1="4.08" x2="5.35" y2="5.08" width="0.1524" layer="94" curve="90"/>
-<pin name="-5V" x="-13.97" y="5.08" length="middle"/>
-<pin name="GND_2" x="-13.97" y="0" length="middle"/>
-<pin name="+5V" x="-13.97" y="-5.08" length="middle"/>
-<pin name="GND_1" x="13.97" y="-5.08" length="middle" rot="R180"/>
-<pin name="UVC" x="13.97" y="0" length="middle" rot="R180"/>
-<pin name="GND_0" x="13.97" y="5.08" length="middle" rot="R180"/>
-<text x="-2.54" y="1.27" size="1.778" layer="94">UVC</text>
+<wire x1="-5.08" y1="2.58" x2="-5.08" y2="-2.58" width="0.1524" layer="94"/>
+<wire x1="-5.08" y1="-2.58" x2="-2.58" y2="-5.08" width="0.1524" layer="94" curve="90"/>
+<wire x1="-2.58" y1="-5.08" x2="2.58" y2="-5.08" width="0.1524" layer="94"/>
+<wire x1="2.58" y1="-5.08" x2="5.08" y2="-2.58" width="0.1524" layer="94" curve="90"/>
+<wire x1="5.08" y1="-2.58" x2="5.08" y2="2.58" width="0.1524" layer="94"/>
+<wire x1="5.08" y1="2.58" x2="2.58" y2="5.08" width="0.1524" layer="94" curve="90"/>
+<wire x1="2.58" y1="5.08" x2="-2.58" y2="5.08" width="0.1524" layer="94"/>
+<wire x1="-2.58" y1="5.08" x2="-5.08" y2="2.58" width="0.1524" layer="94" curve="90"/>
+<wire x1="-2.54" y1="1.54" x2="-2.54" y2="-1.54" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="-1.54" x2="-1.54" y2="-2.54" width="0.1524" layer="94" curve="90"/>
+<wire x1="-1.54" y1="-2.54" x2="1.54" y2="-2.54" width="0.1524" layer="94"/>
+<wire x1="1.54" y1="-2.54" x2="2.54" y2="-1.54" width="0.1524" layer="94" curve="90"/>
+<wire x1="2.54" y1="-1.54" x2="2.54" y2="1.54" width="0.1524" layer="94"/>
+<wire x1="2.54" y1="1.54" x2="1.54" y2="2.54" width="0.1524" layer="94" curve="90"/>
+<wire x1="1.54" y1="2.54" x2="-1.54" y2="2.54" width="0.1524" layer="94"/>
+<wire x1="-1.54" y1="2.54" x2="-2.54" y2="1.54" width="0.1524" layer="94" curve="90"/>
+<pin name="-5V" x="-2.54" y="-10.16" length="middle" rot="R90"/>
+<pin name="GND_2" x="0" y="-10.16" length="middle" rot="R90"/>
+<pin name="+5V" x="2.54" y="-10.16" length="middle" rot="R90"/>
+<pin name="GND_1" x="2.54" y="10.16" length="middle" rot="R270"/>
+<pin name="UVC" x="0" y="10.16" length="middle" rot="R270"/>
+<pin name="GND_0" x="-2.54" y="10.16" length="middle" rot="R270"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -13667,7 +13778,7 @@ https://creativecommons.org/licenses/by-sa/4.0/</description>
 <rectangle x1="12.319" y1="1.691" x2="13.081" y2="3.469" layer="51"/>
 <rectangle x1="12.319" y1="0.929" x2="13.081" y2="1.691" layer="21"/>
 <wire x1="14" y1="4.1875" x2="14" y2="12.65" width="0.127" layer="21"/>
-<wire x1="-1.3" y1="4.1875" x2="-1.3" y2="12.65" width="0.127" layer="22"/>
+<wire x1="-1.3" y1="4.1875" x2="-1.3" y2="12.65" width="0.127" layer="21"/>
 <wire x1="-1.3" y1="12.65" x2="14" y2="12.65" width="0.127" layer="21"/>
 <wire x1="-1.27" y1="4.1275" x2="13.97" y2="4.1275" width="0.127" layer="21"/>
 </package>
@@ -18023,25 +18134,25 @@ Module Connector</text>
 <pinref part="GND1" gate="1" pin="GND"/>
 <pinref part="U$5" gate="G$1" pin="GND_2"/>
 <wire x1="713.74" y1="60.96" x2="713.74" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="713.74" y1="68.58" x2="715.01" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="713.74" y1="68.58" x2="728.98" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U$5" gate="G$1" pin="GND_0"/>
 <pinref part="GND5" gate="1" pin="GND"/>
-<wire x1="742.95" y1="73.66" x2="744.22" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="726.44" y1="78.74" x2="744.22" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="744.22" y1="73.66" x2="744.22" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="U$5" gate="G$1" pin="GND_1"/>
 <wire x1="744.22" y1="63.5" x2="744.22" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="742.95" y1="63.5" x2="744.22" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="731.52" y1="78.74" x2="744.22" y2="63.5" width="0.1524" layer="91"/>
 <junction x="744.22" y="63.5"/>
 </segment>
 <segment>
 <pinref part="GND11" gate="1" pin="GND"/>
 <pinref part="U$4" gate="G$1" pin="GND_1"/>
 <wire x1="716.28" y1="135.89" x2="716.28" y2="138.37125" width="0.1524" layer="91"/>
-<wire x1="716.28" y1="138.37125" x2="717.47625" y2="138.37125" width="0.1524" layer="91"/>
+<wire x1="716.28" y1="138.37125" x2="737.61125" y2="131.37125" width="0.1524" layer="91"/>
 <pinref part="U$4" gate="G$1" pin="GND_0"/>
-<wire x1="717.51825" y1="150.97125" x2="716.28" y2="150.97125" width="0.1524" layer="91"/>
+<wire x1="725.01125" y1="131.41325" x2="716.28" y2="150.97125" width="0.1524" layer="91"/>
 <wire x1="716.28" y1="150.97125" x2="716.28" y2="135.89" width="0.1524" layer="91"/>
 <junction x="716.28" y="135.89"/>
 </segment>
@@ -18049,22 +18160,22 @@ Module Connector</text>
 <pinref part="GND12" gate="1" pin="GND"/>
 <pinref part="U$4" gate="G$1" pin="GND_2"/>
 <wire x1="746.76" y1="135.89" x2="746.76" y2="144.62125" width="0.1524" layer="91"/>
-<wire x1="746.76" y1="144.62125" x2="745.47625" y2="144.62125" width="0.1524" layer="91"/>
+<wire x1="746.76" y1="144.62125" x2="731.36125" y2="159.37125" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GND_1"/>
 <pinref part="GND13" gate="1" pin="GND"/>
-<wire x1="717.47625" y1="214.57125" x2="716.28" y2="214.57125" width="0.1524" layer="91"/>
+<wire x1="737.61125" y1="207.57125" x2="716.28" y2="214.57125" width="0.1524" layer="91"/>
 <wire x1="716.28" y1="214.57125" x2="716.28" y2="212.09" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="GND_0"/>
-<wire x1="717.51825" y1="227.17125" x2="716.28" y2="227.17125" width="0.1524" layer="91"/>
+<wire x1="725.01125" y1="207.61325" x2="716.28" y2="227.17125" width="0.1524" layer="91"/>
 <wire x1="716.28" y1="227.17125" x2="716.28" y2="212.09" width="0.1524" layer="91"/>
 <junction x="716.28" y="212.09"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="GND_2"/>
 <pinref part="GND14" gate="1" pin="GND"/>
-<wire x1="745.47625" y1="220.82125" x2="746.76" y2="220.82125" width="0.1524" layer="91"/>
+<wire x1="731.36125" y1="235.57125" x2="746.76" y2="220.82125" width="0.1524" layer="91"/>
 <wire x1="746.76" y1="220.82125" x2="746.76" y2="212.09" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -18278,13 +18389,13 @@ Module Connector</text>
 <segment>
 <pinref part="U$4" gate="G$1" pin="3V3"/>
 <pinref part="P+2" gate="VCC" pin="VCC"/>
-<wire x1="717.51825" y1="144.77125" x2="715.01" y2="144.77125" width="0.1524" layer="91"/>
+<wire x1="731.21125" y1="131.41325" x2="715.01" y2="144.77125" width="0.1524" layer="91"/>
 <wire x1="715.01" y1="144.77125" x2="715.01" y2="152.4" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="3V3"/>
 <pinref part="P+3" gate="VCC" pin="VCC"/>
-<wire x1="717.51825" y1="220.97125" x2="715.01" y2="220.97125" width="0.1524" layer="91"/>
+<wire x1="731.21125" y1="207.61325" x2="715.01" y2="220.97125" width="0.1524" layer="91"/>
 <wire x1="715.01" y1="220.97125" x2="715.01" y2="228.6" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -18700,7 +18811,7 @@ Module Connector</text>
 <net name="UVC" class="0">
 <segment>
 <pinref part="U$5" gate="G$1" pin="UVC"/>
-<wire x1="742.95" y1="68.58" x2="745.49" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="728.98" y1="78.74" x2="745.49" y2="68.58" width="0.1524" layer="91"/>
 <label x="745.49" y="68.58" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
@@ -18813,7 +18924,7 @@ Module Connector</text>
 </segment>
 <segment>
 <pinref part="U$5" gate="G$1" pin="+5V"/>
-<wire x1="715.01" y1="63.5" x2="712.47" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="731.52" y1="58.42" x2="712.47" y2="63.5" width="0.1524" layer="91"/>
 <label x="712.47" y="63.5" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
@@ -18968,7 +19079,7 @@ Module Connector</text>
 </segment>
 <segment>
 <pinref part="U$5" gate="G$1" pin="-5V"/>
-<wire x1="715.01" y1="73.66" x2="712.47" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="726.44" y1="58.42" x2="712.47" y2="73.66" width="0.1524" layer="91"/>
 <label x="712.47" y="73.66" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
@@ -18985,7 +19096,7 @@ Module Connector</text>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="SDA"/>
-<wire x1="745.45825" y1="214.67125" x2="748.03" y2="214.67125" width="0.1524" layer="91"/>
+<wire x1="737.51125" y1="235.55325" x2="748.03" y2="214.67125" width="0.1524" layer="91"/>
 <wire x1="748.03" y1="214.67125" x2="748.03" y2="214.63" width="0.1524" layer="91"/>
 <label x="748.03" y="214.63" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -19003,7 +19114,7 @@ Module Connector</text>
 </segment>
 <segment>
 <pinref part="U$1" gate="G$1" pin="SCL"/>
-<wire x1="745.45825" y1="226.97125" x2="745.45825" y2="227.33" width="0.1524" layer="91"/>
+<wire x1="725.21125" y1="235.55325" x2="745.45825" y2="227.33" width="0.1524" layer="91"/>
 <wire x1="745.45825" y1="227.33" x2="748.03" y2="227.33" width="0.1524" layer="91"/>
 <label x="748.03" y="227.33" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -19016,7 +19127,7 @@ Module Connector</text>
 </segment>
 <segment>
 <pinref part="U$4" gate="G$1" pin="SDA"/>
-<wire x1="745.45825" y1="138.47125" x2="748.03" y2="138.47125" width="0.1524" layer="91"/>
+<wire x1="737.51125" y1="159.35325" x2="748.03" y2="138.47125" width="0.1524" layer="91"/>
 <wire x1="748.03" y1="138.47125" x2="748.03" y2="138.43" width="0.1524" layer="91"/>
 <label x="748.03" y="138.43" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -19029,7 +19140,7 @@ Module Connector</text>
 </segment>
 <segment>
 <pinref part="U$4" gate="G$1" pin="SCL"/>
-<wire x1="745.45825" y1="150.77125" x2="748.03" y2="150.77125" width="0.1524" layer="91"/>
+<wire x1="725.21125" y1="159.35325" x2="748.03" y2="150.77125" width="0.1524" layer="91"/>
 <label x="748.03" y="151.13" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
@@ -19214,6 +19325,12 @@ will not be understood (or retained) with this version.
 Since Version 8.3, EAGLE supports the association of 3D packages
 with devices in libraries, schematics, and board files. Those 3D
 packages will not be understood (or retained) with this version.
+</note>
+<note version="8.4" severity="warning">
+Since Version 8.4, EAGLE supports properties for SPICE simulation. 
+Probes in schematics and SPICE mapping objects found in parts and library devices
+will not be understood with this version. Update EAGLE to the latest version
+for full support of SPICE simulation. 
 </note>
 </compatibility>
 </eagle>
