@@ -164,80 +164,6 @@
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
 <libraries>
-<library name="Zenith_Breakouts">
-<packages>
-<package name="PADS_UV-C">
-<smd name="GND5" x="-5" y="1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
-<smd name="GND0" x="-5" y="-1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
-<smd name="GND1" x="-1.27" y="-5" dx="2.1" dy="2.54" layer="1" roundness="30"/>
-<smd name="GND2" x="1.27" y="-5" dx="2.1" dy="2.54" layer="1" roundness="30"/>
-<smd name="SINAL2" x="5" y="-1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
-<smd name="SINAL1" x="5" y="1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
-<smd name="GND3" x="1.27" y="5" dx="2.1" dy="2.54" layer="1" roundness="30"/>
-<smd name="GND4" x="-1.27" y="5" dx="2.1" dy="2.54" layer="1" roundness="30"/>
-<wire x1="-5" y1="3" x2="-5" y2="-3" width="0.15" layer="21"/>
-<wire x1="-5" y1="-3" x2="-3" y2="-5" width="0.15" layer="21" curve="90"/>
-<wire x1="-3" y1="-5" x2="3" y2="-5" width="0.15" layer="21"/>
-<wire x1="3" y1="-5" x2="5" y2="-3" width="0.15" layer="21" curve="90"/>
-<wire x1="5" y1="-3" x2="5" y2="3" width="0.15" layer="21"/>
-<wire x1="5" y1="3" x2="3" y2="5" width="0.15" layer="21" curve="90"/>
-<wire x1="3" y1="5" x2="-3" y2="5" width="0.15" layer="21"/>
-<wire x1="-3" y1="5" x2="-5" y2="3" width="0.15" layer="21" curve="90"/>
-</package>
-</packages>
-<symbols>
-<symbol name="DEVICE_UV-C">
-<wire x1="-2.54" y1="2.54" x2="-2.54" y2="0" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="0" x2="-2.54" y2="-2.54" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="-2.54" x2="2.54" y2="0" width="0.254" layer="94"/>
-<wire x1="2.54" y1="0" x2="-2.54" y2="2.54" width="0.254" layer="94"/>
-<wire x1="2.54" y1="2.54" x2="2.54" y2="0" width="0.254" layer="94"/>
-<wire x1="2.54" y1="0" x2="2.54" y2="-2.54" width="0.254" layer="94"/>
-<wire x1="-5.08" y1="0" x2="0" y2="5.08" width="0.254" layer="94" curve="-90"/>
-<wire x1="0" y1="5.08" x2="5.08" y2="0" width="0.254" layer="94" curve="-90"/>
-<wire x1="5.08" y1="0" x2="0" y2="-5.08" width="0.254" layer="94" curve="-90"/>
-<wire x1="0" y1="-5.08" x2="-5.08" y2="0" width="0.254" layer="94" curve="-90"/>
-<wire x1="-7.62" y1="7.62" x2="7.62" y2="7.62" width="0.254" layer="94"/>
-<wire x1="7.62" y1="7.62" x2="7.62" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="7.62" y1="-7.62" x2="-7.62" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="-7.62" y1="7.62" x2="-7.62" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="2.54" y1="0" x2="5.08" y2="0" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="0" x2="-5.08" y2="0" width="0.254" layer="94"/>
-<pin name="GND_5" x="-12.7" y="2.54" length="middle"/>
-<pin name="GND_0" x="-12.7" y="-2.54" length="middle"/>
-<pin name="GND_1" x="-2.54" y="-12.7" length="middle" rot="R90"/>
-<pin name="GND_2" x="2.54" y="-12.7" length="middle" rot="R90"/>
-<pin name="SINAL_1" x="12.7" y="-2.54" length="middle" rot="R180"/>
-<pin name="SINAL_2" x="12.7" y="2.54" length="middle" rot="R180"/>
-<pin name="GND_3" x="2.54" y="12.7" length="middle" rot="R270"/>
-<pin name="GND_4" x="-2.54" y="12.7" length="middle" rot="R270"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="BREAKOUT_UV-C" uservalue="yes">
-<gates>
-<gate name="G$1" symbol="DEVICE_UV-C" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="PADS_UV-C">
-<connects>
-<connect gate="G$1" pin="GND_0" pad="GND0"/>
-<connect gate="G$1" pin="GND_1" pad="GND1"/>
-<connect gate="G$1" pin="GND_2" pad="GND2"/>
-<connect gate="G$1" pin="GND_3" pad="GND3"/>
-<connect gate="G$1" pin="GND_4" pad="GND4"/>
-<connect gate="G$1" pin="GND_5" pad="GND5"/>
-<connect gate="G$1" pin="SINAL_1" pad="SINAL1"/>
-<connect gate="G$1" pin="SINAL_2" pad="SINAL2"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
 <description>&lt;b&gt;Resistors, Capacitors, Inductors&lt;/b&gt;&lt;p&gt;
 Based on the previous libraries:
@@ -8662,6 +8588,68 @@ Source: AVX .. aphvc.pdf</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="Zenith_Breakouts">
+<packages>
+<package name="PADS_UV-C">
+<smd name="GND1" x="-5" y="1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
+<smd name="GND0" x="-5" y="-1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
+<smd name="SINAL2" x="5" y="-1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
+<smd name="SINAL1" x="5" y="1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
+<wire x1="-5" y1="3" x2="-5" y2="-3" width="0.15" layer="21"/>
+<wire x1="-5" y1="-3" x2="-3" y2="-5" width="0.15" layer="21" curve="90"/>
+<wire x1="-3" y1="-5" x2="3" y2="-5" width="0.15" layer="21"/>
+<wire x1="3" y1="-5" x2="5" y2="-3" width="0.15" layer="21" curve="90"/>
+<wire x1="5" y1="-3" x2="5" y2="3" width="0.15" layer="21"/>
+<wire x1="5" y1="3" x2="3" y2="5" width="0.15" layer="21" curve="90"/>
+<wire x1="3" y1="5" x2="-3" y2="5" width="0.15" layer="21"/>
+<wire x1="-3" y1="5" x2="-5" y2="3" width="0.15" layer="21" curve="90"/>
+</package>
+</packages>
+<symbols>
+<symbol name="DEVICE_UV-C">
+<wire x1="-2.54" y1="2.54" x2="-2.54" y2="0" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="0" x2="-2.54" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="-2.54" x2="2.54" y2="0" width="0.254" layer="94"/>
+<wire x1="2.54" y1="0" x2="-2.54" y2="2.54" width="0.254" layer="94"/>
+<wire x1="2.54" y1="2.54" x2="2.54" y2="0" width="0.254" layer="94"/>
+<wire x1="2.54" y1="0" x2="2.54" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-5.08" y1="0" x2="0" y2="5.08" width="0.254" layer="94" curve="-90"/>
+<wire x1="0" y1="5.08" x2="5.08" y2="0" width="0.254" layer="94" curve="-90"/>
+<wire x1="5.08" y1="0" x2="0" y2="-5.08" width="0.254" layer="94" curve="-90"/>
+<wire x1="0" y1="-5.08" x2="-5.08" y2="0" width="0.254" layer="94" curve="-90"/>
+<wire x1="-7.62" y1="7.62" x2="7.62" y2="7.62" width="0.254" layer="94"/>
+<wire x1="7.62" y1="7.62" x2="7.62" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="7.62" y1="-7.62" x2="-7.62" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="-7.62" y1="7.62" x2="-7.62" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="2.54" y1="0" x2="5.08" y2="0" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="0" x2="-5.08" y2="0" width="0.254" layer="94"/>
+<pin name="GND_1" x="-12.7" y="2.54" length="middle"/>
+<pin name="GND_0" x="-12.7" y="-2.54" length="middle"/>
+<pin name="SINAL_1" x="12.7" y="-2.54" length="middle" rot="R180"/>
+<pin name="SINAL_2" x="12.7" y="2.54" length="middle" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="BREAKOUT_UV-C" uservalue="yes">
+<gates>
+<gate name="G$1" symbol="DEVICE_UV-C" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="PADS_UV-C">
+<connects>
+<connect gate="G$1" pin="GND_0" pad="GND0"/>
+<connect gate="G$1" pin="GND_1" pad="GND1"/>
+<connect gate="G$1" pin="SINAL_1" pad="SINAL1"/>
+<connect gate="G$1" pin="SINAL_2" pad="SINAL2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -8672,7 +8660,6 @@ Source: AVX .. aphvc.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="U$1" library="Zenith_Breakouts" deviceset="BREAKOUT_UV-C" device=""/>
 <part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="18k"/>
 <part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="10K"/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -8696,13 +8683,13 @@ Source: AVX .. aphvc.pdf</description>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="P-2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="-5V" device=""/>
+<part name="U$1" library="Zenith_Breakouts" deviceset="BREAKOUT_UV-C" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 </plain>
 <instances>
-<instance part="U$1" gate="G$1" x="10.16" y="119.38" smashed="yes" rot="R90"/>
 <instance part="R2" gate="G$1" x="101.6" y="68.58" smashed="yes">
 <attribute name="NAME" x="97.79" y="70.0786" size="1.778" layer="95"/>
 <attribute name="VALUE" x="97.79" y="65.278" size="1.778" layer="96"/>
@@ -8783,6 +8770,7 @@ Source: AVX .. aphvc.pdf</description>
 <instance part="P-2" gate="1" x="-5.08" y="68.58" smashed="yes" rot="R180">
 <attribute name="VALUE" x="-2.54" y="71.12" size="1.778" layer="96" rot="R270"/>
 </instance>
+<instance part="U$1" gate="G$1" x="10.16" y="121.92" smashed="yes" rot="R90"/>
 </instances>
 <busses>
 </busses>
@@ -8861,33 +8849,17 @@ Source: AVX .. aphvc.pdf</description>
 <pinref part="IC1" gate="A" pin="+INA"/>
 <wire x1="58.42" y1="104.14" x2="66.04" y2="104.14" width="0.1524" layer="91"/>
 <wire x1="58.42" y1="96.52" x2="58.42" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="GND_0"/>
 <wire x1="58.42" y1="99.06" x2="58.42" y2="104.14" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="101.6" x2="12.7" y2="106.68" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="GND_5"/>
-<wire x1="7.62" y1="106.68" x2="7.62" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="7.62" y1="101.6" x2="10.16" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="10.16" y1="101.6" x2="12.7" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="10.16" y1="101.6" x2="10.16" y2="99.06" width="0.1524" layer="91"/>
-<junction x="10.16" y="101.6"/>
-<wire x1="10.16" y1="99.06" x2="25.4" y2="99.06" width="0.1524" layer="91"/>
 <junction x="58.42" y="99.06"/>
-<pinref part="U$1" gate="G$1" pin="GND_2"/>
-<wire x1="25.4" y1="99.06" x2="58.42" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="121.92" x2="25.4" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="U$1" gate="G$1" pin="GND_1"/>
-<wire x1="25.4" y1="121.92" x2="25.4" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="25.4" y1="116.84" x2="22.86" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="25.4" y1="116.84" x2="25.4" y2="99.06" width="0.1524" layer="91"/>
-<junction x="25.4" y="99.06"/>
-<pinref part="U$1" gate="G$1" pin="GND_3"/>
-<wire x1="-2.54" y1="121.92" x2="-5.08" y2="121.92" width="0.1524" layer="91"/>
-<wire x1="-5.08" y1="121.92" x2="-5.08" y2="116.84" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="GND_4"/>
-<wire x1="-5.08" y1="116.84" x2="-2.54" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="-5.08" y1="116.84" x2="-5.08" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="-5.08" y1="99.06" x2="10.16" y2="99.06" width="0.1524" layer="91"/>
-<junction x="10.16" y="99.06"/>
+<wire x1="10.16" y1="99.06" x2="58.42" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="109.22" x2="7.62" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="106.68" x2="10.16" y2="106.68" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="GND_0"/>
+<wire x1="10.16" y1="106.68" x2="12.7" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="106.68" x2="12.7" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="10.16" y1="106.68" x2="10.16" y2="99.06" width="0.1524" layer="91"/>
+<junction x="10.16" y="106.68"/>
 </segment>
 <segment>
 <pinref part="GND1" gate="1" pin="GND"/>
@@ -8921,17 +8893,17 @@ Source: AVX .. aphvc.pdf</description>
 <wire x1="58.42" y1="109.22" x2="66.04" y2="109.22" width="0.1524" layer="91"/>
 <junction x="58.42" y="109.22"/>
 <pinref part="R4" gate="G$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="SINAL_2"/>
-<wire x1="7.62" y1="132.08" x2="7.62" y2="139.7" width="0.1524" layer="91"/>
-<wire x1="7.62" y1="139.7" x2="10.16" y2="139.7" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="SINAL_1"/>
-<wire x1="10.16" y1="139.7" x2="12.7" y2="139.7" width="0.1524" layer="91"/>
-<wire x1="12.7" y1="139.7" x2="12.7" y2="132.08" width="0.1524" layer="91"/>
-<wire x1="10.16" y1="139.7" x2="10.16" y2="144.78" width="0.1524" layer="91"/>
-<junction x="10.16" y="139.7"/>
+<wire x1="10.16" y1="137.16" x2="10.16" y2="144.78" width="0.1524" layer="91"/>
 <wire x1="10.16" y1="144.78" x2="53.34" y2="144.78" width="0.1524" layer="91"/>
 <wire x1="53.34" y1="144.78" x2="53.34" y2="109.22" width="0.1524" layer="91"/>
 <junction x="53.34" y="109.22"/>
+<pinref part="U$1" gate="G$1" pin="SINAL_2"/>
+<wire x1="7.62" y1="134.62" x2="7.62" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="7.62" y1="137.16" x2="10.16" y2="137.16" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="SINAL_1"/>
+<wire x1="10.16" y1="137.16" x2="12.7" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="137.16" x2="12.7" y2="134.62" width="0.1524" layer="91"/>
+<junction x="10.16" y="137.16"/>
 </segment>
 </net>
 <net name="3ºESTAGIO" class="0">
