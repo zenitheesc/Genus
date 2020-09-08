@@ -23240,8 +23240,8 @@ e Giovana Martins Losacco</text>
 <net name="SCL1" class="0">
 <segment>
 <pinref part="JP2" gate="A" pin="24"/>
-<wire x1="342.9" y1="205.74" x2="368.3" y2="205.74" width="0.1524" layer="91"/>
-<label x="368.3" y="205.74" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="342.9" y1="205.74" x2="347.98" y2="205.74" width="0.1524" layer="91"/>
+<label x="347.98" y="205.74" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="COMM_MICRO" gate="G$1" pin="PB8"/>
@@ -23257,8 +23257,8 @@ e Giovana Martins Losacco</text>
 <net name="SCL2" class="0">
 <segment>
 <pinref part="JP2" gate="A" pin="26"/>
-<wire x1="342.9" y1="203.2" x2="368.3" y2="203.2" width="0.1524" layer="91"/>
-<label x="368.3" y="203.2" size="1.27" layer="95" font="vector" xref="yes"/>
+<wire x1="342.9" y1="203.2" x2="347.98" y2="203.2" width="0.1524" layer="91"/>
+<label x="347.98" y="203.2" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
 <pinref part="COMM_MICRO" gate="G$1" pin="PA7"/>
@@ -23636,8 +23636,8 @@ e Giovana Martins Losacco</text>
 <net name="SCL3" class="0">
 <segment>
 <pinref part="JP2" gate="A" pin="19"/>
-<wire x1="335.28" y1="210.82" x2="309.88" y2="210.82" width="0.1524" layer="91"/>
-<label x="309.88" y="210.82" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="335.28" y1="210.82" x2="330.2" y2="210.82" width="0.1524" layer="91"/>
+<label x="330.2" y="210.82" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="COMM_MICRO" gate="G$1" pin="PC0"/>
@@ -23716,8 +23716,8 @@ e Giovana Martins Losacco</text>
 <net name="SDA3" class="0">
 <segment>
 <pinref part="JP2" gate="A" pin="17"/>
-<wire x1="335.28" y1="213.36" x2="309.88" y2="213.36" width="0.1524" layer="91"/>
-<label x="309.88" y="213.36" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
+<wire x1="335.28" y1="213.36" x2="330.2" y2="213.36" width="0.1524" layer="91"/>
+<label x="330.2" y="213.36" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="COMM_MICRO" gate="G$1" pin="PC1"/>
