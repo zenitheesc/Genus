@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -487,8 +487,8 @@ design rules under a new name.</description>
 <signal name="+3V3">
 <contactref element="GUVB" pad="VCC"/>
 <contactref element="U$1" pad="ANODE"/>
-<wire x1="4.111875" y1="5" x2="3.27" y2="5" width="0.8128" layer="16"/>
-<wire x1="2" y1="6.27" x2="3.27" y2="5" width="0.8128" layer="16"/>
+<wire x1="4.111875" y1="5" x2="4.111875" y2="5.158125" width="0.8128" layer="16"/>
+<wire x1="4.111875" y1="5.158125" x2="3" y2="6.27" width="0.8128" layer="16"/>
 <polygon width="0.1524" layer="16">
 <vertex x="-1" y="11"/>
 <vertex x="-1" y="-1"/>
@@ -496,7 +496,7 @@ design rules under a new name.</description>
 <vertex x="11" y="11"/>
 </polygon>
 <contactref element="JP8" pad="2"/>
-<wire x1="0" y1="6.27" x2="2" y2="6.27" width="0.8128" layer="16"/>
+<wire x1="0" y1="6.27" x2="3" y2="6.27" width="0.8128" layer="16"/>
 <wire x1="0" y1="6.27" x2="3.88" y2="6.27" width="0.8128" layer="1"/>
 <wire x1="3.88" y1="6.27" x2="4" y2="6.15" width="0.8128" layer="1"/>
 </signal>
