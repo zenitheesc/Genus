@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.4.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -8590,11 +8590,11 @@ Source: AVX .. aphvc.pdf</description>
 </library>
 <library name="Zenith_Breakouts">
 <packages>
-<package name="PADS_UV-C">
-<smd name="GND1" x="-5" y="1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
-<smd name="GND0" x="-5" y="-1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
-<smd name="SINAL2" x="5" y="-1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
-<smd name="SINAL1" x="5" y="1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
+<package name="UNIVERSAL_PADS">
+<smd name="+3V3" x="-5" y="1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
+<smd name="GND" x="-5" y="-1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
+<smd name="SDA/SINAL" x="5" y="-1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
+<smd name="SCL" x="5" y="1.27" dx="2.54" dy="2.1" layer="1" roundness="30"/>
 <wire x1="-5" y1="3" x2="-5" y2="-3" width="0.15" layer="21"/>
 <wire x1="-5" y1="-3" x2="-3" y2="-5" width="0.15" layer="21" curve="90"/>
 <wire x1="-3" y1="-5" x2="3" y2="-5" width="0.15" layer="21"/>
@@ -8606,7 +8606,7 @@ Source: AVX .. aphvc.pdf</description>
 </package>
 </packages>
 <symbols>
-<symbol name="DEVICE_UV-C">
+<symbol name="UNIVERSAL_BREAKOUT">
 <wire x1="-2.54" y1="2.54" x2="-2.54" y2="0" width="0.254" layer="94"/>
 <wire x1="-2.54" y1="0" x2="-2.54" y2="-2.54" width="0.254" layer="94"/>
 <wire x1="-2.54" y1="-2.54" x2="2.54" y2="0" width="0.254" layer="94"/>
@@ -8623,24 +8623,24 @@ Source: AVX .. aphvc.pdf</description>
 <wire x1="-7.62" y1="7.62" x2="-7.62" y2="-7.62" width="0.254" layer="94"/>
 <wire x1="2.54" y1="0" x2="5.08" y2="0" width="0.254" layer="94"/>
 <wire x1="-2.54" y1="0" x2="-5.08" y2="0" width="0.254" layer="94"/>
-<pin name="GND_1" x="-12.7" y="2.54" length="middle"/>
-<pin name="GND_0" x="-12.7" y="-2.54" length="middle"/>
-<pin name="SINAL_1" x="12.7" y="-2.54" length="middle" rot="R180"/>
-<pin name="SINAL_2" x="12.7" y="2.54" length="middle" rot="R180"/>
+<pin name="+3V3" x="-12.7" y="2.54" length="middle"/>
+<pin name="GND" x="-12.7" y="-2.54" length="middle"/>
+<pin name="SDA/SINAL" x="12.7" y="-2.54" length="middle" rot="R180"/>
+<pin name="SCL" x="12.7" y="2.54" length="middle" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="BREAKOUT_UV-C" uservalue="yes">
+<deviceset name="UNIVERSAL_BREAKOUT">
 <gates>
-<gate name="G$1" symbol="DEVICE_UV-C" x="0" y="0"/>
+<gate name="G$1" symbol="UNIVERSAL_BREAKOUT" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="PADS_UV-C">
+<device name="" package="UNIVERSAL_PADS">
 <connects>
-<connect gate="G$1" pin="GND_0" pad="GND0"/>
-<connect gate="G$1" pin="GND_1" pad="GND1"/>
-<connect gate="G$1" pin="SINAL_1" pad="SINAL1"/>
-<connect gate="G$1" pin="SINAL_2" pad="SINAL2"/>
+<connect gate="G$1" pin="+3V3" pad="+3V3"/>
+<connect gate="G$1" pin="GND" pad="GND"/>
+<connect gate="G$1" pin="SCL" pad="SCL"/>
+<connect gate="G$1" pin="SDA/SINAL" pad="SDA/SINAL"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -8728,8 +8728,8 @@ DIN A4, landscape with location and doc. field</description>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="P-2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="-5V" device=""/>
-<part name="U$1" library="Zenith_Breakouts" deviceset="BREAKOUT_UV-C" device=""/>
 <part name="FRAME1" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A4L-LOC" device=""/>
+<part name="U$3" library="Zenith_Breakouts" deviceset="UNIVERSAL_BREAKOUT" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -10478,8 +10478,8 @@ DIN A4, landscape with location and doc. field</description>
 <instance part="P-2" gate="1" x="66.04" y="76.2" smashed="yes" rot="R180">
 <attribute name="VALUE" x="68.58" y="78.74" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="U$1" gate="G$1" x="68.58" y="139.7" smashed="yes" rot="R90"/>
 <instance part="FRAME1" gate="G$1" x="-0.7" y="-0.3" smashed="yes"/>
+<instance part="U$3" gate="G$1" x="78.74" y="139.7" smashed="yes" rot="R90"/>
 </instances>
 <busses>
 </busses>
@@ -10552,17 +10552,11 @@ DIN A4, landscape with location and doc. field</description>
 <pinref part="IC1" gate="A" pin="+INA"/>
 <wire x1="116.84" y1="121.92" x2="124.46" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="114.3" x2="116.84" y2="116.84" width="0.1524" layer="91"/>
+<pinref part="U$3" gate="G$1" pin="GND"/>
 <wire x1="116.84" y1="116.84" x2="116.84" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="127" x2="81.28" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="116.84" x2="116.84" y2="116.84" width="0.1524" layer="91"/>
 <junction x="116.84" y="116.84"/>
-<pinref part="U$1" gate="G$1" pin="GND_1"/>
-<wire x1="68.58" y1="116.84" x2="116.84" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="127" x2="66.04" y2="124.46" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="124.46" x2="68.58" y2="124.46" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="GND_0"/>
-<wire x1="68.58" y1="124.46" x2="71.12" y2="124.46" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="124.46" x2="71.12" y2="127" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="124.46" x2="68.58" y2="116.84" width="0.1524" layer="91"/>
-<junction x="68.58" y="124.46"/>
 </segment>
 <segment>
 <pinref part="GND2" gate="1" pin="GND"/>
@@ -10585,17 +10579,11 @@ DIN A4, landscape with location and doc. field</description>
 <wire x1="116.84" y1="127" x2="124.46" y2="127" width="0.1524" layer="91"/>
 <junction x="116.84" y="127"/>
 <pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="68.58" y1="154.94" x2="68.58" y2="162.56" width="0.1524" layer="91"/>
-<wire x1="68.58" y1="162.56" x2="111.76" y2="162.56" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="162.56" x2="111.76" y2="162.56" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="162.56" x2="111.76" y2="127" width="0.1524" layer="91"/>
 <junction x="111.76" y="127"/>
-<pinref part="U$1" gate="G$1" pin="SINAL_2"/>
-<wire x1="66.04" y1="152.4" x2="66.04" y2="154.94" width="0.1524" layer="91"/>
-<wire x1="66.04" y1="154.94" x2="68.58" y2="154.94" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="SINAL_1"/>
-<wire x1="68.58" y1="154.94" x2="71.12" y2="154.94" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="154.94" x2="71.12" y2="152.4" width="0.1524" layer="91"/>
-<junction x="68.58" y="154.94"/>
+<pinref part="U$3" gate="G$1" pin="SDA/SINAL"/>
+<wire x1="81.28" y1="152.4" x2="81.28" y2="162.56" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="3ºESTAGIO" class="0">
