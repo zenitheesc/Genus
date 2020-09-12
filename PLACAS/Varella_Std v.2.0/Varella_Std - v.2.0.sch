@@ -13562,26 +13562,20 @@ Source: www.kingbright.com</description>
 <package name="BGA725L6E6327">
 <description>&lt;b&gt;TSLP-6-2&lt;/b&gt;&lt;br&gt;
 </description>
-<smd name="1" x="0.4" y="0.2" dx="0.25" dy="0.25" layer="1"/>
-<smd name="2" x="0" y="0.2" dx="0.25" dy="0.25" layer="1"/>
-<smd name="3" x="-0.4" y="0.2" dx="0.25" dy="0.25" layer="1"/>
-<smd name="4" x="-0.4" y="-0.2" dx="0.25" dy="0.25" layer="1"/>
-<smd name="5" x="0" y="-0.2" dx="0.25" dy="0.25" layer="1"/>
-<smd name="6" x="0.4" y="-0.2" dx="0.25" dy="0.25" layer="1"/>
-<text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0" y="0" size="1.27" layer="27" align="center">&gt;VALUE</text>
+<text x="0" y="2.54" size="1.27" layer="25" align="center">&gt;NAME</text>
+<text x="0" y="-2.54" size="1.27" layer="27" align="center">&gt;VALUE</text>
 <wire x1="-0.55" y1="0.35" x2="0.55" y2="0.35" width="0.2" layer="51"/>
 <wire x1="0.55" y1="0.35" x2="0.55" y2="-0.35" width="0.2" layer="51"/>
 <wire x1="0.55" y1="-0.35" x2="-0.55" y2="-0.35" width="0.2" layer="51"/>
 <wire x1="-0.55" y1="-0.35" x2="-0.55" y2="0.35" width="0.2" layer="51"/>
-<wire x1="-1.05" y1="0.85" x2="1.05" y2="0.85" width="0.1" layer="51"/>
-<wire x1="1.05" y1="0.85" x2="1.05" y2="-0.85" width="0.1" layer="51"/>
-<wire x1="1.05" y1="-0.85" x2="-1.05" y2="-0.85" width="0.1" layer="51"/>
-<wire x1="-1.05" y1="-0.85" x2="-1.05" y2="0.85" width="0.1" layer="51"/>
-<wire x1="0.35" y1="0.65" x2="0.35" y2="0.65" width="0.1" layer="21"/>
 <wire x1="0.35" y1="0.65" x2="0.45" y2="0.65" width="0.1" layer="21" curve="180"/>
-<wire x1="0.45" y1="0.65" x2="0.45" y2="0.65" width="0.1" layer="21"/>
 <wire x1="0.45" y1="0.65" x2="0.35" y2="0.65" width="0.1" layer="21" curve="180"/>
+<smd name="1" x="0.45" y="0.25" dx="0.3" dy="0.3" layer="1"/>
+<smd name="2" x="0" y="0.25" dx="0.3" dy="0.3" layer="1"/>
+<smd name="3" x="-0.45" y="0.25" dx="0.3" dy="0.3" layer="1"/>
+<smd name="4" x="-0.45" y="-0.25" dx="0.3" dy="0.3" layer="1"/>
+<smd name="5" x="0" y="-0.25" dx="0.3" dy="0.3" layer="1"/>
+<smd name="6" x="0.45" y="-0.25" dx="0.3" dy="0.3" layer="1"/>
 </package>
 <package name="LQG15WH0N7B02D">
 <description>&lt;b&gt;0402 (1005) T=0.50.05mm&lt;/b&gt;&lt;br&gt;
