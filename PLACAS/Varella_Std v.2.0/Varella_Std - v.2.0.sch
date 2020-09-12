@@ -17690,9 +17690,6 @@ Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <attribute name="SPICEPREFIX" value="G"/>
 </part>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
-<part name="GND20" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device="">
-<attribute name="SPICEPREFIX" value="G"/>
-</part>
 <part name="IC7" library="SamacSys_Parts" deviceset="TESEO-LIV3F" device=""/>
 <part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device="">
 <attribute name="SPICEPREFIX" value="G"/>
@@ -17708,7 +17705,7 @@ Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <part name="GND29" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C28" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="1nF"/>
 <part name="C29" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="56pF"/>
-<part name="C30" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="1onF"/>
+<part name="C30" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="10nF"/>
 <part name="C31" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="56pF"/>
 <part name="L4-27NH" library="SamacSys_Parts" deviceset="LQG15HS27NJ02D" device=""/>
 <part name="IC13" library="SamacSys_Parts" deviceset="ST1S12GR" device=""/>
@@ -17731,7 +17728,7 @@ Source: http://www.vishay.com/docs/20008/dcrcw.pdf</description>
 <part name="RX_CODE" library="FaBo-PIN" deviceset="SMD-JUMPER-2" device=""/>
 <part name="TX_CODE" library="FaBo-PIN" deviceset="SMD-JUMPER-2" device=""/>
 <part name="L1" library="LQW18AS7N5J0ZD" deviceset="LQW18AS7N5J0ZD" device="" value="LQW18AS7N5J0ZD-7,5nH"/>
-<part name="VARELLA_AQUISITIO_MODULE" library="con-molex" library_urn="urn:adsk.eagle:library:165" deviceset="53?-12" device="261" package3d_urn="urn:adsk.eagle:package:8078506/1"/>
+<part name="VARELLA_AQUISITION_MODULE" library="con-molex" library_urn="urn:adsk.eagle:library:165" deviceset="53?-12" device="261" package3d_urn="urn:adsk.eagle:package:8078506/1"/>
 <part name="FRAME2" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A3L-LOC" device=""/>
 <part name="R24" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="4,7k"/>
 <part name="R25" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="4,7k"/>
@@ -21349,19 +21346,19 @@ e Giovana Martins Losacco</text>
 <attribute name="VALUE" x="553.72" y="213.36" size="1.016" layer="96" font="vector" ratio="15" align="center"/>
 </instance>
 <instance part="U$15" gate="1" x="556.26" y="236.22" smashed="yes">
-<attribute name="VALUE" x="552.196" y="233.68" size="1.27" layer="96"/>
+<attribute name="VALUE" x="554.736" y="233.68" size="1.27" layer="96"/>
 </instance>
-<instance part="U$16" gate="1" x="561.34" y="195.58" smashed="yes">
-<attribute name="VALUE" x="559.816" y="193.04" size="1.27" layer="96"/>
+<instance part="U$16" gate="1" x="561.34" y="193.04" smashed="yes">
+<attribute name="VALUE" x="559.816" y="190.5" size="1.27" layer="96"/>
 </instance>
 <instance part="U$17" gate="G$1" x="568.96" y="215.9" smashed="yes">
 <attribute name="VALUE" x="567.436" y="216.916" size="1.27" layer="96"/>
 </instance>
-<instance part="U$18" gate="1" x="568.96" y="195.58" smashed="yes">
-<attribute name="VALUE" x="567.436" y="193.04" size="1.27" layer="96"/>
+<instance part="U$18" gate="1" x="568.96" y="193.04" smashed="yes">
+<attribute name="VALUE" x="567.436" y="190.5" size="1.27" layer="96"/>
 </instance>
-<instance part="U$19" gate="1" x="617.22" y="195.58" smashed="yes">
-<attribute name="VALUE" x="615.696" y="193.04" size="1.27" layer="96"/>
+<instance part="U$19" gate="1" x="617.22" y="193.04" smashed="yes">
+<attribute name="VALUE" x="615.696" y="190.5" size="1.27" layer="96"/>
 </instance>
 <instance part="U$20" gate="G$1" x="617.22" y="213.36" smashed="yes">
 <attribute name="VALUE" x="618.236" y="211.836" size="1.27" layer="96"/>
@@ -21412,19 +21409,19 @@ e Giovana Martins Losacco</text>
 <attribute name="VALUE" x="688.34" y="213.36" size="1.016" layer="96" font="vector" ratio="15" align="center"/>
 </instance>
 <instance part="U$23" gate="1" x="690.88" y="236.22" smashed="yes">
-<attribute name="VALUE" x="686.816" y="233.68" size="1.27" layer="96"/>
+<attribute name="VALUE" x="689.356" y="233.68" size="1.27" layer="96"/>
 </instance>
-<instance part="U$24" gate="1" x="695.96" y="195.58" smashed="yes">
-<attribute name="VALUE" x="694.436" y="193.04" size="1.27" layer="96"/>
+<instance part="U$24" gate="1" x="695.96" y="193.04" smashed="yes">
+<attribute name="VALUE" x="694.436" y="190.5" size="1.27" layer="96"/>
 </instance>
 <instance part="U$25" gate="G$1" x="703.58" y="215.9" smashed="yes">
 <attribute name="VALUE" x="702.056" y="216.916" size="1.27" layer="96"/>
 </instance>
-<instance part="U$31" gate="1" x="703.58" y="195.58" smashed="yes">
-<attribute name="VALUE" x="702.056" y="193.04" size="1.27" layer="96"/>
+<instance part="U$31" gate="1" x="703.58" y="193.04" smashed="yes">
+<attribute name="VALUE" x="702.056" y="190.5" size="1.27" layer="96"/>
 </instance>
-<instance part="U$32" gate="1" x="751.84" y="195.58" smashed="yes">
-<attribute name="VALUE" x="750.316" y="193.04" size="1.27" layer="96"/>
+<instance part="U$32" gate="1" x="751.84" y="193.04" smashed="yes">
+<attribute name="VALUE" x="750.316" y="190.5" size="1.27" layer="96"/>
 </instance>
 <instance part="U$33" gate="G$1" x="751.84" y="213.36" smashed="yes">
 <attribute name="VALUE" x="752.856" y="211.836" size="1.27" layer="96"/>
@@ -21475,19 +21472,19 @@ e Giovana Martins Losacco</text>
 <attribute name="VALUE" x="431.8" y="213.36" size="1.016" layer="96" font="vector" ratio="15" align="center"/>
 </instance>
 <instance part="U$1" gate="1" x="434.34" y="236.22" smashed="yes">
-<attribute name="VALUE" x="430.276" y="233.68" size="1.27" layer="96"/>
+<attribute name="VALUE" x="432.816" y="233.68" size="1.27" layer="96"/>
 </instance>
-<instance part="U$6" gate="1" x="439.42" y="195.58" smashed="yes">
-<attribute name="VALUE" x="437.896" y="193.04" size="1.27" layer="96"/>
+<instance part="U$6" gate="1" x="439.42" y="193.04" smashed="yes">
+<attribute name="VALUE" x="437.896" y="190.5" size="1.27" layer="96"/>
 </instance>
 <instance part="U$8" gate="G$1" x="447.04" y="215.9" smashed="yes">
 <attribute name="VALUE" x="445.516" y="216.916" size="1.27" layer="96"/>
 </instance>
-<instance part="U$10" gate="1" x="447.04" y="195.58" smashed="yes">
-<attribute name="VALUE" x="445.516" y="193.04" size="1.27" layer="96"/>
+<instance part="U$10" gate="1" x="447.04" y="193.04" smashed="yes">
+<attribute name="VALUE" x="445.516" y="190.5" size="1.27" layer="96"/>
 </instance>
-<instance part="U$11" gate="1" x="495.3" y="195.58" smashed="yes">
-<attribute name="VALUE" x="493.776" y="193.04" size="1.27" layer="96"/>
+<instance part="U$11" gate="1" x="495.3" y="193.04" smashed="yes">
+<attribute name="VALUE" x="493.776" y="190.5" size="1.27" layer="96"/>
 </instance>
 <instance part="U$12" gate="G$1" x="495.3" y="213.36" smashed="yes">
 <attribute name="VALUE" x="496.316" y="211.836" size="1.27" layer="96"/>
@@ -21685,21 +21682,18 @@ e Giovana Martins Losacco</text>
 <instance part="GND17" gate="1" x="482.6" y="132.08" smashed="yes">
 <attribute name="VALUE" x="480.06" y="129.54" size="1.778" layer="96"/>
 </instance>
-<instance part="GND18" gate="1" x="508" y="139.7" smashed="yes">
-<attribute name="VALUE" x="505.46" y="137.16" size="1.778" layer="96"/>
+<instance part="GND18" gate="1" x="508" y="137.16" smashed="yes">
+<attribute name="VALUE" x="505.46" y="134.62" size="1.778" layer="96"/>
 </instance>
 <instance part="P+3" gate="VCC" x="502.92" y="114.3" smashed="yes">
 <attribute name="VALUE" x="505.46" y="116.84" size="1.778" layer="96" rot="R180"/>
-</instance>
-<instance part="GND20" gate="1" x="508" y="139.7" smashed="yes">
-<attribute name="VALUE" x="505.46" y="137.16" size="1.778" layer="96"/>
 </instance>
 <instance part="IC7" gate="G$1" x="510.54" y="45.72" smashed="yes">
 <attribute name="NAME" x="547.37" y="53.34" size="1.778" layer="95" align="center-left"/>
 <attribute name="VALUE" x="547.37" y="50.8" size="1.778" layer="96" align="center-left"/>
 </instance>
-<instance part="GND22" gate="1" x="670.56" y="12.7" smashed="yes">
-<attribute name="VALUE" x="668.02" y="10.16" size="1.778" layer="96"/>
+<instance part="GND22" gate="1" x="670.56" y="10.16" smashed="yes">
+<attribute name="VALUE" x="668.02" y="7.62" size="1.778" layer="96"/>
 </instance>
 <instance part="GND23" gate="1" x="556.26" y="12.7" smashed="yes">
 <attribute name="VALUE" x="553.72" y="10.16" size="1.778" layer="96"/>
@@ -21823,41 +21817,41 @@ e Giovana Martins Losacco</text>
 <attribute name="NAME" x="617.22" y="33.02" size="1.778" layer="95"/>
 <attribute name="VALUE" x="617.22" y="30.48" size="1.778" layer="96"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-1" x="721.36" y="66.04" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-1" x="721.36" y="66.04" smashed="yes">
 <attribute name="NAME" x="723.9" y="65.278" size="1.524" layer="95"/>
 <attribute name="VALUE" x="720.598" y="67.437" size="1.778" layer="96"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-2" x="721.36" y="63.5" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-2" x="721.36" y="63.5" smashed="yes">
 <attribute name="NAME" x="723.9" y="62.738" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-3" x="721.36" y="60.96" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-3" x="721.36" y="60.96" smashed="yes">
 <attribute name="NAME" x="723.9" y="60.198" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-4" x="721.36" y="58.42" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-4" x="721.36" y="58.42" smashed="yes">
 <attribute name="NAME" x="723.9" y="57.658" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-5" x="721.36" y="55.88" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-5" x="721.36" y="55.88" smashed="yes">
 <attribute name="NAME" x="723.9" y="55.118" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-6" x="721.36" y="53.34" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-6" x="721.36" y="53.34" smashed="yes">
 <attribute name="NAME" x="723.9" y="52.578" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-7" x="721.36" y="50.8" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-7" x="721.36" y="50.8" smashed="yes">
 <attribute name="NAME" x="723.9" y="50.038" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-8" x="721.36" y="48.26" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-8" x="721.36" y="48.26" smashed="yes">
 <attribute name="NAME" x="723.9" y="47.498" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-9" x="721.36" y="45.72" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-9" x="721.36" y="45.72" smashed="yes">
 <attribute name="NAME" x="723.9" y="44.958" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-10" x="721.36" y="43.18" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-10" x="721.36" y="43.18" smashed="yes">
 <attribute name="NAME" x="723.9" y="42.418" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-11" x="721.36" y="40.64" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-11" x="721.36" y="40.64" smashed="yes">
 <attribute name="NAME" x="723.9" y="39.878" size="1.524" layer="95"/>
 </instance>
-<instance part="VARELLA_AQUISITIO_MODULE" gate="-12" x="721.36" y="38.1" smashed="yes">
+<instance part="VARELLA_AQUISITION_MODULE" gate="-12" x="721.36" y="38.1" smashed="yes">
 <attribute name="NAME" x="723.9" y="37.338" size="1.524" layer="95"/>
 </instance>
 <instance part="FRAME2" gate="G$1" x="396.24" y="0" smashed="yes">
@@ -22039,14 +22033,17 @@ e Giovana Martins Losacco</text>
 <segment>
 <pinref part="C8" gate="G$1" pin="2"/>
 <pinref part="U$16" gate="1" pin="GND"/>
+<wire x1="561.34" y1="195.58" x2="561.34" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C9" gate="G$1" pin="2"/>
 <pinref part="U$18" gate="1" pin="GND"/>
+<wire x1="568.96" y1="195.58" x2="568.96" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C10" gate="G$1" pin="2"/>
 <pinref part="U$19" gate="1" pin="GND"/>
+<wire x1="617.22" y1="195.58" x2="617.22" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U2" gate="G$1" pin="AGND"/>
@@ -22068,14 +22065,17 @@ e Giovana Martins Losacco</text>
 <segment>
 <pinref part="C13" gate="G$1" pin="2"/>
 <pinref part="U$24" gate="1" pin="GND"/>
+<wire x1="695.96" y1="195.58" x2="695.96" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C14" gate="G$1" pin="2"/>
 <pinref part="U$31" gate="1" pin="GND"/>
+<wire x1="703.58" y1="195.58" x2="703.58" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C15" gate="G$1" pin="2"/>
 <pinref part="U$32" gate="1" pin="GND"/>
+<wire x1="751.84" y1="195.58" x2="751.84" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U3" gate="G$1" pin="AGND"/>
@@ -22097,14 +22097,17 @@ e Giovana Martins Losacco</text>
 <segment>
 <pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="U$6" gate="1" pin="GND"/>
+<wire x1="439.42" y1="195.58" x2="439.42" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C4" gate="G$1" pin="2"/>
 <pinref part="U$10" gate="1" pin="GND"/>
+<wire x1="447.04" y1="195.58" x2="447.04" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C5" gate="G$1" pin="2"/>
 <pinref part="U$11" gate="1" pin="GND"/>
+<wire x1="495.3" y1="195.58" x2="495.3" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="AGND"/>
@@ -22184,15 +22187,12 @@ e Giovana Martins Losacco</text>
 </segment>
 <segment>
 <pinref part="GND18" gate="1" pin="GND"/>
-<junction x="508" y="142.24"/>
-<pinref part="GND20" gate="1" pin="GND"/>
 <wire x1="492.76" y1="167.64" x2="497.84" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="497.84" y1="167.64" x2="508" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="508" y1="167.64" x2="508" y2="142.24" width="0.1524" layer="91"/>
-<junction x="508" y="142.24"/>
+<wire x1="508" y1="142.24" x2="508" y2="139.7" width="0.1524" layer="91"/>
 <wire x1="492.76" y1="142.24" x2="497.84" y2="142.24" width="0.1524" layer="91"/>
 <pinref part="X5" gate="G$1" pin="GND3"/>
-<wire x1="497.84" y1="142.24" x2="508" y2="142.24" width="0.1524" layer="91"/>
 <wire x1="492.76" y1="147.32" x2="492.76" y2="142.24" width="0.1524" layer="91"/>
 <pinref part="X5" gate="G$1" pin="GND4"/>
 <wire x1="497.84" y1="147.32" x2="497.84" y2="142.24" width="0.1524" layer="91"/>
@@ -22202,16 +22202,17 @@ e Giovana Martins Losacco</text>
 <pinref part="X5" gate="G$1" pin="GND2"/>
 <wire x1="497.84" y1="162.56" x2="497.84" y2="167.64" width="0.1524" layer="91"/>
 <junction x="497.84" y="167.64"/>
+<wire x1="497.84" y1="142.24" x2="508" y2="142.24" width="0.1524" layer="91"/>
+<junction x="508" y="142.24"/>
 </segment>
 <segment>
 <pinref part="GND22" gate="1" pin="GND"/>
 <wire x1="655.32" y1="40.64" x2="660.4" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="660.4" y1="40.64" x2="670.56" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="670.56" y1="40.64" x2="670.56" y2="15.24" width="0.1524" layer="91"/>
-<junction x="670.56" y="15.24"/>
+<wire x1="670.56" y1="15.24" x2="670.56" y2="12.7" width="0.1524" layer="91"/>
 <wire x1="655.32" y1="15.24" x2="660.4" y2="15.24" width="0.1524" layer="91"/>
 <pinref part="X4" gate="G$1" pin="GND1"/>
-<wire x1="660.4" y1="15.24" x2="670.56" y2="15.24" width="0.1524" layer="91"/>
 <wire x1="655.32" y1="35.56" x2="655.32" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="X4" gate="G$1" pin="GND2"/>
 <wire x1="660.4" y1="35.56" x2="660.4" y2="40.64" width="0.1524" layer="91"/>
@@ -22221,6 +22222,8 @@ e Giovana Martins Losacco</text>
 <pinref part="X4" gate="G$1" pin="GND4"/>
 <wire x1="660.4" y1="20.32" x2="660.4" y2="15.24" width="0.1524" layer="91"/>
 <junction x="660.4" y="15.24"/>
+<wire x1="660.4" y1="15.24" x2="670.56" y2="15.24" width="0.1524" layer="91"/>
+<junction x="670.56" y="15.24"/>
 </segment>
 <segment>
 <pinref part="IC7" gate="G$1" pin="GND_RF_1"/>
@@ -22312,12 +22315,12 @@ e Giovana Martins Losacco</text>
 <wire x1="17.78" y1="134.62" x2="22.86" y2="134.62" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-9" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-9" pin="S"/>
 <wire x1="718.82" y1="45.72" x2="716.28" y2="45.72" width="0.1524" layer="91"/>
 <label x="716.28" y="45.72" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-10" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-10" pin="S"/>
 <wire x1="718.82" y1="43.18" x2="716.28" y2="43.18" width="0.1524" layer="91"/>
 <label x="716.28" y="43.18" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -22674,7 +22677,7 @@ e Giovana Martins Losacco</text>
 <pinref part="R29" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-7" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-7" pin="S"/>
 <wire x1="718.82" y1="50.8" x2="716.28" y2="50.8" width="0.1524" layer="91"/>
 <label x="716.28" y="50.8" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -22922,7 +22925,7 @@ e Giovana Martins Losacco</text>
 <label x="203.2" y="210.82" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-12" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-12" pin="S"/>
 <wire x1="718.82" y1="38.1" x2="716.28" y2="38.1" width="0.1524" layer="91"/>
 <label x="716.28" y="38.1" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -22942,7 +22945,7 @@ e Giovana Martins Losacco</text>
 <label x="203.2" y="213.36" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-11" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-11" pin="S"/>
 <wire x1="718.82" y1="40.64" x2="716.28" y2="40.64" width="0.1524" layer="91"/>
 <label x="716.28" y="40.64" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -23067,7 +23070,7 @@ e Giovana Martins Losacco</text>
 <label x="228.6" y="30.48" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-1" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-1" pin="S"/>
 <wire x1="718.82" y1="66.04" x2="716.28" y2="66.04" width="0.1524" layer="91"/>
 <label x="716.28" y="66.04" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -23114,7 +23117,7 @@ e Giovana Martins Losacco</text>
 <label x="266.7" y="25.4" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-3" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-3" pin="S"/>
 <wire x1="718.82" y1="60.96" x2="716.28" y2="60.96" width="0.1524" layer="91"/>
 <label x="716.28" y="60.96" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -23161,7 +23164,7 @@ e Giovana Martins Losacco</text>
 <label x="266.7" y="27.94" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-2" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-2" pin="S"/>
 <wire x1="718.82" y1="63.5" x2="716.28" y2="63.5" width="0.1524" layer="91"/>
 <label x="716.28" y="63.5" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -23413,7 +23416,7 @@ e Giovana Martins Losacco</text>
 <label x="347.98" y="223.52" size="1.27" layer="95" font="vector" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-8" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-8" pin="S"/>
 <wire x1="718.82" y1="48.26" x2="716.28" y2="48.26" width="0.1524" layer="91"/>
 <label x="716.28" y="48.26" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -23476,7 +23479,7 @@ e Giovana Martins Losacco</text>
 <label x="251.46" y="129.54" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-4" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-4" pin="S"/>
 <wire x1="718.82" y1="58.42" x2="716.28" y2="58.42" width="0.1524" layer="91"/>
 <label x="716.28" y="58.42" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -23596,7 +23599,7 @@ e Giovana Martins Losacco</text>
 <label x="553.72" y="43.18" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-5" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-5" pin="S"/>
 <wire x1="718.82" y1="55.88" x2="716.28" y2="55.88" width="0.1524" layer="91"/>
 <label x="716.28" y="55.88" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -23623,7 +23626,7 @@ e Giovana Martins Losacco</text>
 <label x="553.72" y="40.64" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="VARELLA_AQUISITIO_MODULE" gate="-6" pin="S"/>
+<pinref part="VARELLA_AQUISITION_MODULE" gate="-6" pin="S"/>
 <wire x1="718.82" y1="53.34" x2="716.28" y2="53.34" width="0.1524" layer="91"/>
 <label x="716.28" y="53.34" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
