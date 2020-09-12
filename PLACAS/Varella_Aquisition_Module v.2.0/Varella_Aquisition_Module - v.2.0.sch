@@ -13746,8 +13746,8 @@ https://creativecommons.org/licenses/by-sa/4.0/</description>
 <part name="GND25" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R19" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1k"/>
 <part name="R20" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1k"/>
-<part name="TX2" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0805" package3d_urn="urn:adsk.eagle:package:15821/2"/>
-<part name="RX2" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0805" package3d_urn="urn:adsk.eagle:package:15821/2"/>
+<part name="TX" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0805" package3d_urn="urn:adsk.eagle:package:15821/2"/>
+<part name="RX" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0805" package3d_urn="urn:adsk.eagle:package:15821/2"/>
 <part name="+3V5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="+3V6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="FRAME3" library="frames" library_urn="urn:adsk.eagle:library:229" deviceset="A3L-LOC" device=""/>
@@ -13784,7 +13784,7 @@ https://creativecommons.org/licenses/by-sa/4.0/</description>
 <part name="GND64" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="C32" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10pF"/>
 <part name="C33" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="10pF"/>
-<part name="CAN1" library="SN65HVD233D" deviceset="SN65HVD233D" device=""/>
+<part name="CAN" library="SN65HVD233D" deviceset="SN65HVD233D" device=""/>
 <part name="C34" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C1206" package3d_urn="urn:adsk.eagle:package:23618/2" value="1nF"/>
 <part name="GND65" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND66" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -13804,9 +13804,9 @@ https://creativecommons.org/licenses/by-sa/4.0/</description>
 <part name="U$2" library="Texas-HDC1080" deviceset="HDC1080" device=""/>
 <part name="GND71" library="FaBo-Supply" deviceset="GND" device=""/>
 <part name="+3V9" library="supply1" deviceset="+3V3" device=""/>
-<part name="LED5" library="SamacSys_Parts" deviceset="TLLG4400-AS12" device=""/>
-<part name="LED6" library="SamacSys_Parts" deviceset="TLLG4400-AS12" device=""/>
-<part name="LED7" library="SamacSys_Parts" deviceset="TLLG4400-AS12" device=""/>
+<part name="LED1" library="SamacSys_Parts" deviceset="TLLG4400-AS12" device=""/>
+<part name="LED2" library="SamacSys_Parts" deviceset="TLLG4400-AS12" device=""/>
+<part name="LED3" library="SamacSys_Parts" deviceset="TLLG4400-AS12" device=""/>
 <part name="IC1" library="SamacSys_Parts" deviceset="M95M04-DRDW6TP" device=""/>
 <part name="R28" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="100k"/>
 <part name="+3V10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
@@ -13837,7 +13837,7 @@ https://creativecommons.org/licenses/by-sa/4.0/</description>
 <part name="R34" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="220"/>
 <part name="GND81" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R35" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="220"/>
-<part name="LED8" library="SamacSys_Parts" deviceset="TLLG4400-AS12" device=""/>
+<part name="LED4" library="SamacSys_Parts" deviceset="TLLG4400-AS12" device=""/>
 <part name="GND82" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R36" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="220"/>
 <part name="P+28" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device="" value="+3V3"/>
@@ -17298,11 +17298,11 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <attribute name="NAME" x="143.2814" y="49.53" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="148.082" y="49.53" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="TX2" gate="G$1" x="134.62" y="43.18" smashed="yes">
+<instance part="TX" gate="G$1" x="134.62" y="43.18" smashed="yes">
 <attribute name="NAME" x="138.176" y="38.608" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="140.335" y="38.608" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="RX2" gate="G$1" x="144.78" y="43.18" smashed="yes">
+<instance part="RX" gate="G$1" x="144.78" y="43.18" smashed="yes">
 <attribute name="NAME" x="148.336" y="38.608" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="150.495" y="38.608" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -17427,7 +17427,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <attribute name="NAME" x="43.434" y="185.801" size="1.778" layer="95"/>
 <attribute name="VALUE" x="49.276" y="185.039" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="CAN1" gate="G$1" x="231.14" y="215.9" smashed="yes">
+<instance part="CAN" gate="G$1" x="231.14" y="215.9" smashed="yes">
 <attribute name="NAME" x="233.68" y="213.3584" size="1.77911875" layer="95"/>
 <attribute name="VALUE" x="231.14" y="226.0656" size="1.77898125" layer="95"/>
 </instance>
@@ -17524,15 +17524,15 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <instance part="+3V9" gate="G$1" x="571.5" y="203.2" smashed="yes">
 <attribute name="VALUE" x="574.04" y="205.74" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="LED5" gate="G$1" x="215.9" y="132.08" smashed="yes" rot="R90">
+<instance part="LED1" gate="G$1" x="215.9" y="132.08" smashed="yes" rot="R90">
 <attribute name="NAME" x="209.55" y="129.54" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="209.55" y="137.16" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="LED6" gate="G$1" x="228.6" y="132.08" smashed="yes" rot="R90">
+<instance part="LED2" gate="G$1" x="228.6" y="132.08" smashed="yes" rot="R90">
 <attribute name="NAME" x="222.25" y="129.54" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="222.25" y="137.16" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="LED7" gate="G$1" x="241.3" y="132.08" smashed="yes" rot="R90">
+<instance part="LED3" gate="G$1" x="241.3" y="132.08" smashed="yes" rot="R90">
 <attribute name="NAME" x="234.95" y="129.54" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="234.95" y="137.16" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -17639,7 +17639,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <attribute name="NAME" x="244.8814" y="123.19" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="247.142" y="123.19" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="LED8" gate="G$1" x="254" y="132.08" smashed="yes" rot="R90">
+<instance part="LED4" gate="G$1" x="254" y="132.08" smashed="yes" rot="R90">
 <attribute name="NAME" x="247.65" y="129.54" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="247.65" y="137.16" size="1.778" layer="96" rot="R90"/>
 </instance>
@@ -17933,7 +17933,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <wire x1="190.5" y1="210.82" x2="190.5" y2="213.36" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="CAN1" gate="G$1" pin="GND"/>
+<pinref part="CAN" gate="G$1" pin="GND"/>
 <wire x1="215.9" y1="215.9" x2="215.9" y2="210.82" width="0.1524" layer="91"/>
 <pinref part="GND66" gate="1" pin="GND"/>
 </segment>
@@ -18129,7 +18129,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <wire x1="134.62" y1="35.56" x2="134.62" y2="38.1" width="0.1524" layer="91"/>
 <label x="121.92" y="35.56" size="1.778" layer="95"/>
 <pinref part="U1" gate="G$1" pin="TXLED"/>
-<pinref part="TX2" gate="G$1" pin="C"/>
+<pinref part="TX" gate="G$1" pin="C"/>
 </segment>
 </net>
 <net name="RXLED" class="0">
@@ -18138,7 +18138,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <wire x1="144.78" y1="33.02" x2="144.78" y2="38.1" width="0.1524" layer="91"/>
 <label x="121.92" y="33.02" size="1.778" layer="95"/>
 <pinref part="U1" gate="G$1" pin="RXLED"/>
-<pinref part="RX2" gate="G$1" pin="C"/>
+<pinref part="RX" gate="G$1" pin="C"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -18291,14 +18291,14 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <segment>
 <pinref part="C34" gate="G$1" pin="1"/>
 <wire x1="190.5" y1="220.98" x2="190.5" y2="223.52" width="0.1524" layer="91"/>
-<pinref part="CAN1" gate="G$1" pin="VCC"/>
+<pinref part="CAN" gate="G$1" pin="VCC"/>
 <wire x1="215.9" y1="223.52" x2="190.5" y2="223.52" width="0.1524" layer="91"/>
 <pinref part="P+23" gate="VCC" pin="VCC"/>
 <wire x1="190.5" y1="228.6" x2="190.5" y2="223.52" width="0.1524" layer="91"/>
 <junction x="190.5" y="223.52"/>
 </segment>
 <segment>
-<pinref part="LED8" gate="G$1" pin="A"/>
+<pinref part="LED4" gate="G$1" pin="A"/>
 <pinref part="P+28" gate="VCC" pin="VCC"/>
 <wire x1="254" y1="147.32" x2="254" y2="149.86" width="0.1524" layer="91"/>
 </segment>
@@ -18394,14 +18394,14 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <label x="106.68" y="210.82" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 <segment>
-<pinref part="LED5" gate="G$1" pin="A"/>
+<pinref part="LED1" gate="G$1" pin="A"/>
 <wire x1="215.9" y1="147.32" x2="215.9" y2="149.86" width="0.1524" layer="91"/>
 <label x="215.9" y="149.86" size="1.27" layer="95" font="vector" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="LED_USB" class="0">
 <segment>
-<pinref part="LED6" gate="G$1" pin="A"/>
+<pinref part="LED2" gate="G$1" pin="A"/>
 <wire x1="228.6" y1="147.32" x2="228.6" y2="149.86" width="0.1524" layer="91"/>
 <label x="228.6" y="149.86" size="1.27" layer="95" font="vector" rot="R90" xref="yes"/>
 </segment>
@@ -18430,7 +18430,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <label x="142.24" y="187.96" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="CAN1" gate="G$1" pin="TXD"/>
+<pinref part="CAN" gate="G$1" pin="TXD"/>
 <wire x1="254" y1="220.98" x2="256.54" y2="220.98" width="0.1524" layer="91"/>
 <label x="256.54" y="220.98" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -18442,7 +18442,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <label x="142.24" y="185.42" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="CAN1" gate="G$1" pin="RXD"/>
+<pinref part="CAN" gate="G$1" pin="RXD"/>
 <wire x1="254" y1="223.52" x2="256.54" y2="223.52" width="0.1524" layer="91"/>
 <label x="256.54" y="223.52" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -18516,7 +18516,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <label x="142.24" y="170.18" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="CAN1" gate="G$1" pin="LBK"/>
+<pinref part="CAN" gate="G$1" pin="LBK"/>
 <wire x1="254" y1="218.44" x2="256.54" y2="218.44" width="0.1524" layer="91"/>
 <label x="256.54" y="218.44" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -18640,7 +18640,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <label x="73.66" y="193.04" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="LED7" gate="G$1" pin="A"/>
+<pinref part="LED3" gate="G$1" pin="A"/>
 <wire x1="241.3" y1="147.32" x2="241.3" y2="149.86" width="0.1524" layer="91"/>
 <label x="241.3" y="149.86" size="1.27" layer="95" font="vector" rot="R90" xref="yes"/>
 </segment>
@@ -18686,7 +18686,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <segment>
 <pinref part="R26" gate="G$1" pin="1"/>
 <wire x1="205.74" y1="226.06" x2="205.74" y2="218.44" width="0.1524" layer="91"/>
-<pinref part="CAN1" gate="G$1" pin="CANH"/>
+<pinref part="CAN" gate="G$1" pin="CANH"/>
 <wire x1="205.74" y1="218.44" x2="215.9" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="205.74" y1="218.44" x2="203.2" y2="218.44" width="0.1524" layer="91"/>
 <junction x="205.74" y="218.44"/>
@@ -18700,7 +18700,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 </net>
 <net name="CAN_L" class="0">
 <segment>
-<pinref part="CAN1" gate="G$1" pin="CANL"/>
+<pinref part="CAN" gate="G$1" pin="CANL"/>
 <pinref part="R26" gate="G$1" pin="2"/>
 <wire x1="215.9" y1="220.98" x2="215.9" y2="226.06" width="0.1524" layer="91"/>
 <wire x1="215.9" y1="220.98" x2="203.2" y2="220.98" width="0.1524" layer="91"/>
@@ -18715,7 +18715,7 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 </net>
 <net name="N$11" class="0">
 <segment>
-<pinref part="CAN1" gate="G$1" pin="RS"/>
+<pinref part="CAN" gate="G$1" pin="RS"/>
 <pinref part="R27" gate="G$1" pin="2"/>
 <wire x1="254" y1="215.9" x2="256.54" y2="215.9" width="0.1524" layer="91"/>
 </segment>
@@ -19094,28 +19094,28 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <net name="N$16" class="0">
 <segment>
 <pinref part="R23" gate="G$1" pin="2"/>
-<pinref part="LED5" gate="G$1" pin="K"/>
+<pinref part="LED1" gate="G$1" pin="K"/>
 <wire x1="215.9" y1="129.54" x2="215.9" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$17" class="0">
 <segment>
 <pinref part="R34" gate="G$1" pin="2"/>
-<pinref part="LED6" gate="G$1" pin="K"/>
+<pinref part="LED2" gate="G$1" pin="K"/>
 <wire x1="228.6" y1="129.54" x2="228.6" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$19" class="0">
 <segment>
 <pinref part="R35" gate="G$1" pin="2"/>
-<pinref part="LED7" gate="G$1" pin="K"/>
+<pinref part="LED3" gate="G$1" pin="K"/>
 <wire x1="241.3" y1="129.54" x2="241.3" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$20" class="0">
 <segment>
 <pinref part="R36" gate="G$1" pin="2"/>
-<pinref part="LED8" gate="G$1" pin="K"/>
+<pinref part="LED4" gate="G$1" pin="K"/>
 <wire x1="254" y1="129.54" x2="254" y2="132.08" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -19194,14 +19194,14 @@ Júlio Calandrin e Leonardo José Ribeiro Baptistella</text>
 <segment>
 <wire x1="134.62" y1="48.26" x2="134.62" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="R19" gate="G$1" pin="1"/>
-<pinref part="TX2" gate="G$1" pin="A"/>
+<pinref part="TX" gate="G$1" pin="A"/>
 </segment>
 </net>
 <net name="RXL" class="0">
 <segment>
 <wire x1="144.78" y1="48.26" x2="144.78" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="R20" gate="G$1" pin="1"/>
-<pinref part="RX2" gate="G$1" pin="A"/>
+<pinref part="RX" gate="G$1" pin="A"/>
 </segment>
 </net>
 <net name="PRESSÃO" class="0">
