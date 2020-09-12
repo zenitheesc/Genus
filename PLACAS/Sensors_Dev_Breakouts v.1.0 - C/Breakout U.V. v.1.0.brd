@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.4.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.5" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.05" altunitdist="mm" altunit="mm"/>
+<grid distance="12.5" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="0.05" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -164,7 +164,7 @@
 </layers>
 <board>
 <plain>
-<text x="6.89625" y="2.2075" size="0.6096" layer="25" rot="SR180">Sensor UV</text>
+<text x="7.89625" y="2.2075" size="0.8128" layer="25" rot="SR180">Sensor UV</text>
 <wire x1="0" y1="8" x2="0" y2="2" width="0" layer="20"/>
 <wire x1="0" y1="2" x2="2" y2="0" width="0" layer="20" curve="90"/>
 <wire x1="2" y1="0" x2="8" y2="0" width="0" layer="20"/>
@@ -173,8 +173,8 @@
 <wire x1="10" y1="8" x2="8" y2="10" width="0" layer="20" curve="90"/>
 <wire x1="8" y1="10" x2="2" y2="10" width="0" layer="20"/>
 <wire x1="2" y1="10" x2="0" y2="8" width="0" layer="20" curve="90"/>
-<text x="7.35" y="9.25" size="0.6096" layer="25" rot="SR180">UVA</text>
-<text x="4.35" y="9.25" size="0.6096" layer="25" rot="SR180">UVB</text>
+<text x="7.6675" y="9.5675" size="0.8128" layer="25" rot="SR180">UVA</text>
+<text x="4.6675" y="9.5675" size="0.8128" layer="25" rot="SR180">UVB</text>
 <wire x1="7" y1="7.4" x2="7" y2="8.4" width="0.1016" layer="25"/>
 <wire x1="7" y1="8.4" x2="6" y2="8.4" width="0.1016" layer="25"/>
 <wire x1="6" y1="8.4" x2="6" y2="7.4" width="0.1016" layer="25"/>
@@ -183,7 +183,7 @@
 <wire x1="4" y1="8.4" x2="3" y2="8.4" width="0.1016" layer="25"/>
 <wire x1="3" y1="8.4" x2="3" y2="7.4" width="0.1016" layer="25"/>
 <wire x1="3" y1="7.4" x2="4" y2="7.4" width="0.1016" layer="25"/>
-<text x="7.20375" y="7.7425" size="0.6096" layer="26" rot="SMR0">Sensor UVC</text>
+<text x="8.20375" y="7.7425" size="0.8128" layer="26" rot="SMR0">Sensor UVC</text>
 <circle x="8.5" y="8.5" radius="0.25495" width="0.508" layer="25"/>
 <circle x="8.5" y="1.5" radius="0.25" width="0.508" layer="26"/>
 </plain>
