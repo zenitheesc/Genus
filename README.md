@@ -1,5 +1,5 @@
-<h1 align="center" style="color:white; background-color:black">[PROJECT NAME]</h1>
-<h4 align="center">[insert *brief* project description]</h4>
+<h1 align="center" style="color:white; background-color:black">Genus</h1>
+<h4 align="center">Genus is a generic hardware platform aimed at instrumentation in aerospace projects. This project was developed seeking to create a set of devices which can meet the operational needs of the group Zenith EESC-USP, in a flexible, efficient and adaptive way.</h4>
 
 <p align="center">
 	<a href="http://zenith.eesc.usp.br/">
@@ -34,22 +34,21 @@
 <p align="center">
     <a href="#environment-and-tools">Environment and Tools</a> •
     <a href="#steps-to-run-and-debug">Steps to run and debug</a> •
-    <a href="#how-to-contribute">How to contribute?</a> •
+    <a href="#how-to-contribute">How to contribute?</a> 
 </p>
 
-## Environment and tools
+![genus gif](https://raw.githubusercontent.com/zenitheesc/Genus/enhancement/gif/doc/output.gif)
 
-`Add list of dependencies and software needed to run this project (if possible add the versions that were used in development).`
+The project is based on the implementation of a logic bus developed by the group and named as Z-bus. The bus has the function of allowing changes in the level of processing and distribution architecture to be carried out, and that these are easy to implement. In a simplified way, the bus consists of possibilities for connecting communication protocols such as UART, I²C, SPI, and CAN, in addition to generic digital ports and some interrupt and control ports.
 
-## Steps to run and debug
+![enter image description here](https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus1.png)
 
-`A simple list of steps indicating how one can run and test the project.`
+This bus was implemented in a main board named Genus Board. In addition to implementing the bus, this board is responsible for receiving the connection of a battery pack converting to the required voltage levels and distributing the energy.
 
-## How to contribute
+In addition to the Genus Board, the system has modular boards which can perform dedicated processing for applications, remote control and monitoring, sensing and actuation. These boards are divided into two distinct categories, Feature Boards which are connected to the Genus Board via PCI-Express connector and are developed in a predetermined model compatible with Z-bus, and Generic Boards which can follow any development model if some compatibility requirements are used.
 
-`(optional, depends on the project) list of simple rules to help people work on the project.`
 
-`Examples: How to format a pull request\n How to format an issue`
+![enter image description here](https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus2.png)
 
 ---
 
@@ -68,3 +67,4 @@
 <p align = "center">
 <a href="zenith.eesc@gmail.com">zenith.eesc@gmail.com</a>
 </p>
+
