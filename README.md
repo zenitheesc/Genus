@@ -31,11 +31,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="#environment-and-tools">Environment and Tools</a> •
-    <a href="#steps-to-run-and-debug">Steps to run and debug</a> •
-    <a href="#how-to-contribute">How to contribute?</a> 
-</p>
 
 ![genus gif](https://raw.githubusercontent.com/zenitheesc/Genus/enhancement/gif/doc/output.gif)
 
