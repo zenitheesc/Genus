@@ -48,6 +48,7 @@ In addition to the Genus Board, the system has modular boards which can perform 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus2.png"/>
 </p>
+
 ---
 
 <p align="center">
