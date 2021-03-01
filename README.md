@@ -31,22 +31,62 @@
     </a>
 </p>
 
+<style>
+body {
+    font-size: 1.2rem;
+    text-align: justify;
+}
+.imagem {
+    position:relative;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    display: block;
+    border-radius: 0.25rem;
+}
 
-![genus gif](https://raw.githubusercontent.com/zenitheesc/Genus/enhancement/gif/doc/output.gif)
+.row {
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 1rem 0;
+}
+}
+#footer {
+    position: absolute;
+    display: block;
+    bottom: 0;
+}
+</style>
+
+<div>
+
+<img class="imagem" src="https://raw.githubusercontent.com/zenitheesc/Genus/enhancement/gif/doc/output.gif" aria-label="genus gif"/>
 
 The project is based on the implementation of a logic bus developed by the group and named as Z-bus. The bus has the function of allowing changes in the level of processing and distribution architecture to be carried out, and that these are easy to implement. In a simplified way, the bus consists of possibilities for connecting communication protocols such as UART, I²C, SPI, and CAN, in addition to generic digital ports and some interrupt and control ports.
 
-![enter image description here](https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus1.png)
+<div class="row">
+<img class="imagem" src="https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus1.png" aria-label="Imagem da placa"/>
 
+<p >
 This bus was implemented in a main board named Genus Board. In addition to implementing the bus, this board is responsible for receiving the connection of a battery pack converting to the required voltage levels and distributing the energy.
+</p>
+</div>
 
+
+<div class="row">
+<p>
 In addition to the Genus Board, the system has modular boards which can perform dedicated processing for applications, remote control and monitoring, sensing and actuation. These boards are divided into two distinct categories, Feature Boards which are connected to the Genus Board via PCI-Express connector and are developed in a predetermined model compatible with Z-bus, and Generic Boards which can follow any development model if some compatibility requirements are used.
+</p>
 
-
-![enter image description here](https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus2.png)
+<img class="imagem"  src="https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus2.png"/>
+</div>
+</div>
 
 ---
 
+<div id="footer">
 <p align="center">
     <a href="http://zenith.eesc.usp.br">
     <img src="https://img.shields.io/badge/Check%20out-Zenith's Oficial Website-black?style=for-the-badge" />
@@ -62,4 +102,4 @@ In addition to the Genus Board, the system has modular boards which can perform 
 <p align = "center">
 <a href="zenith.eesc@gmail.com">zenith.eesc@gmail.com</a>
 </p>
-
+</div>
