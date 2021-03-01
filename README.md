@@ -31,20 +31,23 @@
     </a>
 </p>
 
-
-![genus gif](https://raw.githubusercontent.com/zenitheesc/Genus/enhancement/gif/doc/output.gif)
+<p align="center">
+	<img src = "https://raw.githubusercontent.com/zenitheesc/Genus/enhancement/gif/doc/output.gif"/>
+</p>
 
 The project is based on the implementation of a logic bus developed by the group and named as Z-bus. The bus has the function of allowing changes in the level of processing and distribution architecture to be carried out, and that these are easy to implement. In a simplified way, the bus consists of possibilities for connecting communication protocols such as UART, I²C, SPI, and CAN, in addition to generic digital ports and some interrupt and control ports.
 
-![enter image description here](https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus1.png)
+<p align="center">
+	<img src = "https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus1.png"/>
+</p>
 
 This bus was implemented in a main board named Genus Board. In addition to implementing the bus, this board is responsible for receiving the connection of a battery pack converting to the required voltage levels and distributing the energy.
 
 In addition to the Genus Board, the system has modular boards which can perform dedicated processing for applications, remote control and monitoring, sensing and actuation. These boards are divided into two distinct categories, Feature Boards which are connected to the Genus Board via PCI-Express connector and are developed in a predetermined model compatible with Z-bus, and Generic Boards which can follow any development model if some compatibility requirements are used.
 
-
-![enter image description here](https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus2.png)
-
+<p align="center">
+	<img src="https://raw.githubusercontent.com/zenitheesc/Zenith-Wiki/gh-pages/assets/images/genus2.png"/>
+</p>
 ---
 
 <p align="center">
